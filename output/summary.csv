@@ -1,0 +1,23 @@
+Metric,Value
+Mode,normal
+Contest (for summary only),K Wed NBA Piggy Bank Shot
+Entries You,150
+Unique Lineups Returned,150
+Salary Cap,60000
+Min Salary,59000
+Avg Salary (portfolio),59582.7
+Min Salary (portfolio),59000
+Candidate Unique Lineups,2199
+Num Sims,2200
+Field Pool Size,1200
+Max players per team,4
+Ceiling weight,0.18
+Stocks weight,0.35
+Game-stack weight,1.0
+4-stack penalty weight,1.0
+Heavy-tail prob,0.08
+Heavy-tail scale,1.35
+ROI sims,80
+ROI mean,1.1162
+ROI p50,-0.15
+ROI p90,0.1439

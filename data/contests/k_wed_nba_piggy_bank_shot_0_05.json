@@ -1,0 +1,136 @@
+{
+  "name": "K Wed NBA Piggy Bank Shot",
+  "field_size": 71856,
+  "entry_fee": 0.05,
+  "max_entries": 150,
+  "entries_you": 150,
+  "paid_entries": 21660,
+  "min_cash_rank": 1,
+  "payouts": [
+    {
+      "rank_min": 1,
+      "rank_max": 1,
+      "payout": 125.0
+    },
+    {
+      "rank_min": 2,
+      "rank_max": 2,
+      "payout": 75.0
+    },
+    {
+      "rank_min": 3,
+      "rank_max": 3,
+      "payout": 50.0
+    },
+    {
+      "rank_min": 4,
+      "rank_max": 4,
+      "payout": 25.0
+    },
+    {
+      "rank_min": 5,
+      "rank_max": 5,
+      "payout": 15.0
+    },
+    {
+      "rank_min": 6,
+      "rank_max": 6,
+      "payout": 10.0
+    },
+    {
+      "rank_min": 7,
+      "rank_max": 7,
+      "payout": 7.5
+    },
+    {
+      "rank_min": 8,
+      "rank_max": 8,
+      "payout": 5.0
+    },
+    {
+      "rank_min": 9,
+      "rank_max": 10,
+      "payout": 4.0
+    },
+    {
+      "rank_min": 11,
+      "rank_max": 12,
+      "payout": 3.5
+    },
+    {
+      "rank_min": 13,
+      "rank_max": 15,
+      "payout": 3.0
+    },
+    {
+      "rank_min": 16,
+      "rank_max": 20,
+      "payout": 2.5
+    },
+    {
+      "rank_min": 21,
+      "rank_max": 25,
+      "payout": 2.0
+    },
+    {
+      "rank_min": 26,
+      "rank_max": 30,
+      "payout": 1.5
+    },
+    {
+      "rank_min": 31,
+      "rank_max": 40,
+      "payout": 1.25
+    },
+    {
+      "rank_min": 41,
+      "rank_max": 55,
+      "payout": 1.0
+    },
+    {
+      "rank_min": 56,
+      "rank_max": 75,
+      "payout": 0.75
+    },
+    {
+      "rank_min": 76,
+      "rank_max": 100,
+      "payout": 0.5
+    },
+    {
+      "rank_min": 101,
+      "rank_max": 150,
+      "payout": 0.4
+    },
+    {
+      "rank_min": 151,
+      "rank_max": 250,
+      "payout": 0.3
+    },
+    {
+      "rank_min": 251,
+      "rank_max": 500,
+      "payout": 0.25
+    },
+    {
+      "rank_min": 501,
+      "rank_max": 1000,
+      "payout": 0.2
+    },
+    {
+      "rank_min": 1001,
+      "rank_max": 5000,
+      "payout": 0.15
+    },
+    {
+      "rank_min": 5001,
+      "rank_max": 10000,
+      "payout": 0.12
+    },
+    {
+      "rank_min": 10001,
+      "rank_max": 21660,
+      "payout": 0.1
+    }
+  ]
+}
