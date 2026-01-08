@@ -1,15 +1,17 @@
 Name  Sort table by Name in descending order,Minutes  Sort table by Minutes in descending order,Blocks  Sort table by Blocks in descending order,2pt Blocks  Sort table by 2pt Blocks in descending order,3pt Blocks  Sort table by 3pt Blocks in descending order,Rim Blocks  Sort table by Rim Blocks in descending order,SMR Blocks  Sort table by SMR Blocks in descending order,LMR Blocks  Sort table by LMR Blocks in descending order,C3 Blocks  Sort table by C3 Blocks in descending order,AB3 Blocks  Sort table by AB3 Blocks in descending order,BLK REC  Sort table by BLK REC in descending order,BLK REC%  Sort table by BLK REC% in descending order,Steals  Sort table by Steals in descending order,Lost Ball Steals  Sort table by Lost Ball Steals in descending order,Bad Pass Steals  Sort table by Bad Pass Steals in descending order,Goaltending Violations  Sort table by Goaltending Violations in descending order
-Norman Powell,434,0.43,0.43,0.0,0.21,0.21,0.0,0.0,0.0,0.43,100.00%,1.7,8,8,0.0
-Bam Adebayo,404,0.46,0.35,0.12,0.23,0.12,0.0,0.12,0.0,0.23,50.00%,1.51,1,12,0.23
-Davion Mitchell,375,0.37,0.37,0.0,0.37,0.0,0.0,0.0,0.0,0.37,100.00%,1.86,8,7,0.0
-Dru Smith,397,0.46,0.46,0.0,0.0,0.46,0.0,0.0,0.0,0.35,75.00%,4.03,17,18,0.0
-Jaime Jaquez Jr.,620,0.3,0.3,0.0,0.15,0.15,0.0,0.0,0.0,0.07,25.00%,1.27,7,10,0.07
-Kel'el Ware,400,2.08,1.97,0.12,0.92,1.04,0.0,0.0,0.12,0.81,38.89%,1.39,2,10,0.58
-Andrew Wiggins,499,1.94,1.76,0.18,1.29,0.28,0.18,0.18,0.0,1.39,71.43%,1.48,7,9,0.0
-Nikola Jović,267,0.84,0.84,0.0,0.17,0.68,0.0,0.0,0.0,0.51,60.00%,0.51,0,3,0.0
-Keshad Johnson,71,1.94,1.94,0.0,1.94,0.0,0.0,0.0,0.0,0.65,33.33%,1.94,0,3,0.0
-Kasparas Jakučionis,114,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,2.0,2,3,0.0
-Simone Fontecchio,407,0.46,0.46,0.0,0.34,0.11,0.0,0.0,0.0,0.23,50.00%,1.14,3,7,0.11
-Myron Gardner,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,2.56,1,0,0.0
-Jahmir Young,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,5.56,0,1,0.0
+Norman Powell,943,0.29,0.29,0.0,0.2,0.1,0.0,0.0,0.0,0.24,83.33%,1.9,19,20,0.0
+Bam Adebayo,842,1.17,1.11,0.06,0.61,0.45,0.06,0.06,0.0,0.72,61.90%,1.39,6,19,0.17
+Tyler Herro,201,0.68,0.68,0.0,0.0,0.68,0.0,0.0,0.0,0.23,33.33%,1.36,4,2,0.0
+Davion Mitchell,1009,0.18,0.18,0.0,0.18,0.0,0.0,0.0,0.0,0.18,100.00%,1.94,23,19,0.0
+Nikola Jović,468,1.06,1.06,0.0,0.39,0.67,0.0,0.0,0.0,0.48,45.45%,1.64,4,13,0.0
+Pelle Larsson,608,0.45,0.3,0.15,0.23,0.08,0.0,0.08,0.08,0.15,33.33%,1.14,3,12,0.0
+Andrew Wiggins,1003,1.66,1.57,0.09,0.97,0.46,0.14,0.09,0.0,1.06,63.89%,1.8,17,22,0.0
+Dru Smith,591,0.69,0.61,0.08,0.08,0.46,0.08,0.08,0.0,0.31,44.44%,4.07,29,24,0.0
+Jaime Jaquez Jr.,920,0.35,0.35,0.0,0.2,0.15,0.0,0.0,0.0,0.1,28.57%,1.26,11,14,0.05
+Kel'el Ware,864,2.29,2.18,0.11,1.12,1.06,0.0,0.0,0.11,1.01,44.19%,1.54,6,23,0.53
+Simone Fontecchio,516,0.45,0.45,0.0,0.36,0.09,0.0,0.0,0.0,0.18,40.00%,1.17,4,9,0.09
+Kasparas Jakučionis,154,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,2.08,3,4,0.0
+Keshad Johnson,83,2.21,2.21,0.0,2.21,0.0,0.0,0.0,0.0,1.1,50.00%,1.66,0,3,0.0
+Myron Gardner,35,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,3.7,1,2,0.0
+Jahmir Young,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,4.76,0,1,0.0
 Vladislav Goldin,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,0.0,0,0,0.0

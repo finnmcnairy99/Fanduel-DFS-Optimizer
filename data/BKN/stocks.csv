@@ -1,16 +1,16 @@
 Name  Sort table by Name in descending order,Minutes  Sort table by Minutes in descending order,Blocks  Sort table by Blocks in descending order,2pt Blocks  Sort table by 2pt Blocks in descending order,3pt Blocks  Sort table by 3pt Blocks in descending order,Rim Blocks  Sort table by Rim Blocks in descending order,SMR Blocks  Sort table by SMR Blocks in descending order,LMR Blocks  Sort table by LMR Blocks in descending order,C3 Blocks  Sort table by C3 Blocks in descending order,AB3 Blocks  Sort table by AB3 Blocks in descending order,BLK REC  Sort table by BLK REC in descending order,BLK REC%  Sort table by BLK REC% in descending order,Steals  Sort table by Steals in descending order,Lost Ball Steals  Sort table by Lost Ball Steals in descending order,Bad Pass Steals  Sort table by Bad Pass Steals in descending order,Goaltending Violations  Sort table by Goaltending Violations in descending order
-Terance Mann,160,0.3,0.3,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.00%,1.22,3,1,0.0
-Nic Claxton,206,2.33,2.33,0.0,0.23,1.86,0.23,0.0,0.0,1.86,80.00%,0.23,0,1,0.23
-Ziaire Williams,314,0.92,0.92,0.0,0.31,0.61,0.0,0.0,0.0,0.46,50.00%,2.14,4,10,0.0
-Cam Thomas,102,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,1.48,1,2,0.0
-Tyrese Martin,272,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,1.98,5,6,0.0
-Noah Clowney,285,1.03,1.03,0.0,0.52,0.52,0.0,0.0,0.0,0.52,50.00%,1.03,1,5,0.0
-Egor Dëmin,164,1.14,0.85,0.28,0.0,0.85,0.0,0.0,0.28,1.14,100.00%,2.28,2,6,0.0
-Ben Saraf,84,1.09,1.09,0.0,0.55,0.55,0.0,0.0,0.0,1.09,100.00%,2.73,0,5,0.0
-Jalen Wilson,163,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,0.3,1,0,0.0
-Drake Powell,191,0.51,0.51,0.0,0.25,0.25,0.0,0.0,0.0,0.0,0.00%,1.53,2,4,0.0
-Danny Wolf,183,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,1.06,2,2,0.0
-Day'Ron Sharpe,279,1.21,1.21,0.0,0.52,0.69,0.0,0.0,0.0,1.04,85.71%,2.59,4,11,0.17
-Nolan Traore,66,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,0.73,1,0,0.0
+Michael Porter Jr.,754,0.26,0.26,0.0,0.07,0.2,0.0,0.0,0.0,0.2,75.00%,1.37,4,17,0.0
+Terance Mann,674,0.65,0.65,0.0,0.29,0.36,0.0,0.0,0.0,0.22,33.33%,1.31,7,11,0.0
+Nic Claxton,786,2.26,2.13,0.13,0.94,1.13,0.06,0.13,0.0,1.13,50.00%,1.19,6,13,0.25
+Ziaire Williams,505,1.16,0.87,0.29,0.29,0.58,0.0,0.1,0.19,0.29,25.00%,2.31,8,16,0.1
+Cam Thomas,216,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,0.93,1,3,0.0
+Jalen Wilson,215,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,0.46,1,1,0.0
+Tyrese Martin,478,0.31,0.2,0.1,0.0,0.1,0.1,0.1,0.0,0.2,66.67%,1.64,7,9,0.0
+Noah Clowney,834,1.35,1.3,0.06,0.82,0.47,0.0,0.06,0.0,1.0,73.91%,1.35,7,16,0.06
+Egor Dëmin,684,0.71,0.5,0.21,0.21,0.29,0.0,0.0,0.21,0.57,80.00%,1.93,4,23,0.0
+Drake Powell,320,0.31,0.31,0.0,0.0,0.31,0.0,0.0,0.0,0.15,50.00%,1.69,2,9,0.0
+Nolan Traore,146,0.99,0.99,0.0,0.66,0.33,0.0,0.0,0.0,0.66,66.67%,1.64,2,3,0.0
+Danny Wolf,242,0.2,0.2,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.00%,1.61,4,4,0.0
+Day'Ron Sharpe,412,1.19,1.19,0.0,0.95,0.24,0.0,0.0,0.0,0.71,60.00%,2.61,8,14,0.24
 E.J. Liddell,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,0.0,0,0,0.0
-Tyson Etienne,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,0.0,0,0,0.0
+Tyson Etienne,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00%,0.0,0,0,0.0

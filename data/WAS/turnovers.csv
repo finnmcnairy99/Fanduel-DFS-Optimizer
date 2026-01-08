@@ -1,17 +1,18 @@
 Name  Sort table by Name in descending order,Minutes  Sort table by Minutes in descending order,TOs  Sort table by TOs in descending order,Live Ball TOs  Sort table by Live Ball TOs in descending order,Dead Ball TOs  Sort table by Dead Ball TOs in descending order,Live Ball TO%  Sort table by Live Ball TO% in descending order,Lost Ball  Sort table by Lost Ball in descending order,Lost Ball Out of Bounds  Sort table by Lost Ball Out of Bounds in descending order,Bad Pass  Sort table by Bad Pass in descending order,Bad Pass Out of Bounds  Sort table by Bad Pass Out of Bounds in descending order,Travels  Sort table by Travels in descending order,3 Second Violation  Sort table by 3 Second Violation in descending order,Step Out of Bounds  Sort table by Step Out of Bounds in descending order,Offensive Goaltending  Sort table by Offensive Goaltending in descending order
-Marvin Bagley III,180,2.65,0.79,1.85,30.00%,0.79,0.26,0.0,0.79,0.0,0.0,0.0,0.26
-Justin Champagnie,118,1.67,0.42,1.25,25.00%,0.0,0.0,0.42,0.42,0.0,0.0,0.0,0.0
-Corey Kispert,138,0.69,0.69,0.0,100.00%,0.0,0.0,0.69,0.0,0.0,0.0,0.0,0.0
-Malaki Branham,52,3.0,3.0,0.0,100.00%,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-CJ McCollum,170,2.51,1.67,0.84,66.67%,0.84,0.0,0.84,0.56,0.28,0.0,0.0,0.0
-Cam Whitmore,107,2.2,1.76,0.44,80.00%,0.44,0.44,1.32,0.0,0.0,0.0,0.0,0.0
-Bilal Coulibaly,46,2.15,1.08,1.08,50.00%,0.0,0.0,1.08,0.0,0.0,0.0,0.0,0.0
-Bub Carrington,225,5.54,4.69,0.85,84.62%,0.64,0.21,4.05,0.43,0.0,0.0,0.0,0.0
-Tre Johnson,151,2.57,2.25,0.32,87.50%,0.96,0.0,1.29,0.0,0.32,0.0,0.0,0.0
-Jamir Watkins,61,1.61,0.81,0.81,50.00%,0.0,0.0,0.81,0.81,0.0,0.0,0.0,0.0
-Will Riley,123,0.4,0.4,0.0,100.00%,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Tristan Vukcevic,69,5.71,2.86,2.86,50.00%,0.71,0.0,2.14,0.71,0.0,0.0,0.0,0.0
-Anthony Gill,12,0.0,0.0,0.0,0.00%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Marvin Bagley III,288,2.8,0.99,1.81,35.29%,0.49,0.16,0.49,0.82,0.16,0.0,0.0,0.16
+Justin Champagnie,242,1.2,0.4,0.8,33.33%,0.0,0.0,0.4,0.4,0.0,0.0,0.0,0.0
+Corey Kispert,184,1.52,1.27,0.25,83.33%,0.51,0.0,0.76,0.25,0.0,0.0,0.0,0.0
+Malaki Branham,75,3.5,2.8,0.7,80.00%,2.1,0.7,0.7,0.0,0.0,0.0,0.0,0.0
+CJ McCollum,430,2.6,1.84,0.76,70.83%,0.65,0.0,1.19,0.33,0.11,0.0,0.0,0.0
+Cam Whitmore,131,2.18,1.82,0.36,83.33%,0.73,0.36,1.09,0.0,0.0,0.0,0.0,0.0
+Bilal Coulibaly,218,2.38,1.51,0.86,63.64%,0.43,0.0,1.08,0.22,0.22,0.0,0.0,0.22
+Bub Carrington,401,4.48,3.54,0.94,78.95%,0.59,0.24,2.95,0.47,0.12,0.0,0.0,0.0
+AJ Johnson,49,3.13,1.04,2.08,33.33%,0.0,0.0,1.04,1.04,1.04,0.0,0.0,0.0
+Tre Johnson,316,2.55,1.65,0.9,64.71%,0.6,0.45,1.05,0.0,0.15,0.0,0.15,0.0
+Will Riley,178,1.37,1.37,0.0,100.00%,0.82,0.0,0.55,0.0,0.0,0.0,0.0,0.0
+Jamir Watkins,78,1.91,1.27,0.64,66.67%,0.0,0.0,1.27,0.64,0.0,0.0,0.0,0.0
+Khris Middleton,225,2.64,1.83,0.81,69.23%,0.2,0.2,1.63,0.2,0.0,0.0,0.0,0.0
+Tristan Vukcevic,85,5.14,2.86,2.29,55.56%,0.57,0.0,2.29,0.57,0.0,0.0,0.0,0.0
+Anthony Gill,13,0.0,0.0,0.0,0.00%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Sharife Cooper,3,20.0,20.0,0.0,100.00%,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0
-AJ Johnson,15,3.7,3.7,0.0,100.00%,0.0,0.0,3.7,0.0,0.0,0.0,0.0,0.0
-Alex Sarr,44,2.33,0.0,2.33,0.00%,0.0,0.0,0.0,1.16,0.0,0.0,0.0,0.0
+Alex Sarr,249,3.02,2.27,0.76,75.00%,1.32,0.19,0.95,0.19,0.19,0.0,0.0,0.0

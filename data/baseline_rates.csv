@@ -1,506 +1,507 @@
 player,team_abbr,min_per100,pts_per100,reb_per100,ast_per100,stl_per100,blk_per100,tov_per100,name_key
 Jalen Green,PHX,48.0,50.0,6.5,6.5,3.2,0.0,3.2,jalen green
-Giannis Antetokounmpo,MIL,47.6,48.0,16.5,9.5,1.5,1.4,5.5,giannis antetokounmpo
-Shai Gilgeous-Alexander,OKC,46.6,45.0,6.6,9.0,2.2,1.0,2.7,shai gilgeous alexander
-Luka Dončić,LAL,47.4,43.9,10.7,11.4,2.0,0.8,5.8,luka doncic
+Giannis Antetokounmpo,MIL,47.8,48.7,16.5,9.0,1.4,1.2,5.3,giannis antetokounmpo
+Shai Gilgeous-Alexander,OKC,46.6,44.7,6.2,8.9,2.0,0.9,2.7,shai gilgeous alexander
+Luka Dončić,LAL,47.3,43.6,10.3,11.3,2.0,0.7,5.9,luka doncic
 Riley Minix,SAS,39.4,42.9,9.5,4.8,4.8,0.0,0.0,riley minix
-Jaylen Brown,BOS,48.8,42.6,9.1,7.2,1.7,0.7,5.3,jaylen brown
-Stephen Curry,GSW,46.2,41.4,5.7,6.2,1.7,0.7,4.5,stephen curry
-Donovan Mitchell,CLE,46.1,40.4,6.3,7.5,2.0,0.4,4.3,donovan mitchell
-Kawhi Leonard,LAC,49.2,40.3,9.4,5.0,3.1,0.9,3.0,kawhi leonard
+Jaylen Brown,BOS,49.0,42.9,9.2,7.1,1.5,0.6,5.4,jaylen brown
+Stephen Curry,GSW,46.3,41.4,5.7,6.4,1.7,0.6,4.2,stephen curry
+Donovan Mitchell,CLE,46.2,40.7,6.4,7.4,2.1,0.4,4.3,donovan mitchell
 Nikola Jokić,DEN,46.9,40.2,16.5,14.9,1.9,1.0,4.8,nikola jokic
-Jalen Brunson,NYK,48.2,40.0,4.5,9.0,1.1,0.1,2.9,jalen brunson
-Anthony Edwards,MIN,47.5,39.6,6.8,4.9,1.9,1.2,3.8,anthony edwards
+Kawhi Leonard,LAC,49.4,40.2,9.2,5.0,3.1,1.0,3.2,kawhi leonard
+Anthony Edwards,MIN,47.4,40.1,6.8,5.0,2.0,1.1,3.9,anthony edwards
+Jalen Brunson,NYK,48.4,39.9,4.5,8.6,1.0,0.1,3.2,jalen brunson
 Mark Sears,MIL,46.6,39.3,3.6,3.6,0.0,0.0,7.1,mark sears
-Cam Thomas,BKN,47.9,38.7,2.5,4.9,0.7,0.2,3.3,cam thomas
-Victor Wembanyama,SAS,47.0,38.5,18.5,5.3,1.3,4.6,5.1,victor wembanyama
-Joel Embiid,PHI,47.0,38.3,11.4,5.3,1.2,2.3,4.3,joel embiid
-Michael Porter Jr.,BKN,48.3,37.8,11.0,4.8,1.4,0.3,3.4,michael porter jr
-Tyrese Maxey,PHI,47.7,37.0,5.2,8.5,2.1,1.0,3.1,tyrese maxey
+Victor Wembanyama,SAS,47.0,39.0,18.5,5.3,1.4,4.6,5.2,victor wembanyama
+Joel Embiid,PHI,47.3,38.4,11.3,5.3,0.9,2.1,4.4,joel embiid
+Cam Thomas,BKN,48.9,38.4,3.5,4.8,0.6,0.3,3.8,cam thomas
+Michael Porter Jr.,BKN,48.5,38.3,11.0,4.8,1.4,0.3,3.6,michael porter jr
+Tyrese Maxey,PHI,47.8,37.0,5.6,8.5,2.2,1.1,3.1,tyrese maxey
 Trentyn Flowers,CHI,50.5,36.4,9.1,9.1,0.0,0.0,9.1,trentyn flowers
-Zion Williamson,NOP,45.6,36.4,9.3,5.4,1.9,0.8,4.1,zion williamson
-James Harden,LAC,49.1,36.0,6.8,10.9,1.7,0.5,5.1,james harden
 Austin Reaves,LAL,47.6,35.9,7.0,8.5,1.3,0.3,4.4,austin reaves
-Lauri Markkanen,UTA,46.0,35.8,9.0,2.7,1.3,0.6,1.8,lauri markkanen
-Devin Booker,PHX,47.3,35.2,5.8,8.7,1.4,0.6,4.7,devin booker
-Cade Cunningham,DET,47.0,34.9,8.2,12.7,2.0,1.0,5.2,cade cunningham
-Tolu Smith,DET,45.4,34.7,22.4,4.1,2.0,2.0,2.0,tolu smith
-Norman Powell,MIA,45.4,34.6,5.7,4.0,1.9,0.4,2.8,norman powell
-Kristaps Porziņģis,ATL,46.2,34.6,9.8,5.4,0.8,2.7,1.7,kristaps porzingis
-Kevin Durant,HOU,48.6,34.5,6.7,5.8,1.1,1.3,4.2,kevin durant
-Shaedon Sharpe,POR,45.9,34.0,6.9,3.7,2.4,0.3,4.8,shaedon sharpe
-Jamal Murray,DEN,47.5,33.9,6.1,9.4,1.4,0.4,3.1,jamal murray
-Deni Avdija,POR,46.3,33.4,9.5,9.1,1.1,0.8,5.2,deni avdija
-Keyonte George,UTA,46.5,33.3,5.8,9.2,1.3,0.4,4.6,keyonte george
-Tyler Herro,MIA,45.5,33.1,7.1,3.3,1.4,0.7,1.7,tyler herro
-LaMelo Ball,CHA,46.3,33.1,8.6,13.5,1.9,0.4,6.0,lamelo ball
-Pascal Siakam,IND,47.1,32.7,9.2,5.2,1.8,0.6,2.8,pascal siakam
-Dillon Brooks,PHX,47.2,32.7,4.7,2.5,2.0,0.1,3.1,dillon brooks
-Anthony Davis,DAL,47.3,32.4,17.2,4.4,2.0,2.5,2.8,anthony davis
-Karl-Anthony Towns,NYK,47.5,31.8,17.0,4.3,1.2,1.0,3.6,karl anthony towns
+Lauri Markkanen,UTA,46.0,35.7,9.0,2.7,1.4,0.5,2.0,lauri markkanen
+James Harden,LAC,49.2,35.6,6.6,11.2,1.7,0.4,4.9,james harden
+Zion Williamson,NOP,45.6,35.5,9.3,5.4,1.8,0.9,3.9,zion williamson
+Norman Powell,MIA,45.3,35.5,5.4,4.0,1.9,0.3,2.8,norman powell
+Devin Booker,PHX,47.3,35.3,5.5,8.8,1.3,0.5,4.7,devin booker
+Kevin Durant,HOU,48.8,35.2,6.9,6.0,0.9,1.3,4.2,kevin durant
+Cade Cunningham,DET,47.0,35.2,8.1,12.8,2.0,1.1,5.2,cade cunningham
+Deni Avdija,POR,46.6,34.7,9.6,9.3,1.0,0.8,5.1,deni avdija
+Jamal Murray,DEN,47.7,34.0,6.3,10.1,1.3,0.4,3.1,jamal murray
+Shaedon Sharpe,POR,46.2,33.7,6.7,4.0,2.3,0.2,4.7,shaedon sharpe
+Pascal Siakam,IND,46.9,32.8,9.1,5.2,1.8,0.6,2.8,pascal siakam
+LaMelo Ball,CHA,46.7,32.6,8.5,13.2,2.0,0.4,5.6,lamelo ball
+Keyonte George,UTA,46.5,32.6,5.7,9.3,1.3,0.4,4.8,keyonte george
+Dillon Brooks,PHX,47.3,32.5,5.0,2.6,1.9,0.1,3.1,dillon brooks
+Kristaps Porziņģis,ATL,46.1,32.4,9.7,5.1,1.0,2.5,1.8,kristaps porzingis
+Tyler Herro,MIA,45.4,32.2,8.1,3.5,1.2,0.6,1.9,tyler herro
+Aaron Gordon,DEN,47.6,31.8,10.3,2.4,1.2,0.3,2.4,aaron gordon
 Jonas Valančiūnas,DEN,49.4,31.5,17.3,4.6,0.8,2.3,4.2,jonas valanciunas
 Franz Wagner,ORL,46.3,31.5,8.4,5.1,1.6,0.5,2.5,franz wagner
-Aaron Gordon,DEN,47.4,31.4,9.9,2.2,1.3,0.4,2.3,aaron gordon
-Alperen Sengun,HOU,48.8,31.1,12.9,9.3,2.1,1.4,4.8,alperen sengun
-Brandon Ingram,TOR,48.3,31.1,8.3,5.3,1.0,0.9,4.0,brandon ingram
-Jalen Johnson,ATL,45.7,31.1,13.4,10.8,1.8,0.6,4.5,jalen johnson
-Coby White,CHI,45.3,31.0,5.1,7.6,1.1,0.0,4.7,coby white
-De'Aaron Fox,SAS,46.1,31.0,5.2,8.6,2.0,0.4,3.7,de aaron fox
-Julius Randle,MIN,46.9,31.0,9.7,8.1,1.6,0.2,3.5,julius randle
-Ja Morant,MEM,44.8,30.5,5.1,11.7,1.5,0.3,5.7,ja morant
-Brandon Miller,CHA,47.0,30.4,6.0,5.2,1.5,1.7,3.7,brandon miller
-Jerami Grant,POR,45.9,30.2,6.1,4.0,1.1,0.9,3.3,jerami grant
+Karl-Anthony Towns,NYK,47.5,31.4,16.7,4.3,1.2,0.9,3.7,karl anthony towns
+Brandon Ingram,TOR,48.1,31.2,8.5,5.2,1.1,1.1,4.0,brandon ingram
+Brandon Miller,CHA,47.2,31.0,6.6,5.1,1.5,1.7,3.8,brandon miller
+Alperen Sengun,HOU,48.9,31.0,12.8,9.3,2.1,1.4,4.7,alperen sengun
+Julius Randle,MIN,46.9,31.0,9.9,8.0,1.5,0.2,3.4,julius randle
+LeBron James,LAL,47.3,30.9,7.7,9.6,1.4,0.9,3.6,lebron james
+Anthony Davis,DAL,47.2,30.9,16.8,4.2,1.7,2.6,3.1,anthony davis
+RJ Barrett,TOR,46.9,30.3,7.8,5.4,1.3,0.3,2.5,rj barrett
+Collin Sexton,CHA,48.0,30.3,4.0,8.1,1.5,0.3,4.6,collin sexton
+Jalen Johnson,ATL,45.7,30.3,13.3,10.7,1.7,0.6,4.7,jalen johnson
 Trae Young,ATL,43.8,30.2,2.3,13.9,1.6,0.2,4.1,trae young
-Collin Sexton,CHA,47.9,30.0,4.2,8.5,1.4,0.4,4.5,collin sexton
-Jalen Duren,DET,47.6,30.0,18.0,2.9,1.5,1.5,3.8,jalen duren
-Chet Holmgren,OKC,47.0,30.0,13.1,2.5,0.9,2.8,3.2,chet holmgren
+Jerami Grant,POR,45.9,30.2,6.1,4.0,1.1,0.9,3.3,jerami grant
+Ja Morant,MEM,44.8,30.1,5.1,12.0,1.6,0.3,5.6,ja morant
+Jalen Duren,DET,47.6,30.0,17.8,2.9,1.6,1.5,3.8,jalen duren
+Coby White,CHI,45.6,30.0,5.5,7.5,1.1,0.0,4.9,coby white
+De'Aaron Fox,SAS,46.1,29.9,5.5,8.4,1.9,0.4,3.6,de aaron fox
+Paolo Banchero,ORL,47.3,29.8,12.2,6.7,0.9,1.0,3.9,paolo banchero
 A.J. Lawson,TOR,49.7,29.8,12.8,0.0,2.1,4.3,0.0,a j lawson
-Jimmy Butler III,GSW,47.3,29.5,8.3,7.4,2.0,0.3,2.4,jimmy butler iii
-LeBron James,LAL,47.5,29.3,7.0,9.4,1.4,1.0,3.8,lebron james
-RJ Barrett,TOR,46.8,29.2,7.7,5.8,1.1,0.3,2.3,rj barrett
-Zach LaVine,SAC,47.1,29.0,4.3,3.3,1.1,0.3,3.2,zach lavine
-Alex Sarr,WAS,46.6,28.9,13.4,4.8,1.3,3.8,2.9,alex sarr
-Paolo Banchero,ORL,47.2,28.8,12.1,6.6,0.8,1.1,3.6,paolo banchero
+Chet Holmgren,OKC,47.0,29.5,13.4,2.6,0.9,2.9,3.0,chet holmgren
+Jimmy Butler III,GSW,47.3,29.4,8.2,7.2,2.2,0.4,2.4,jimmy butler iii
+Marcus Sasser,DET,45.7,29.2,6.2,9.0,2.8,1.1,3.9,marcus sasser
+Zach LaVine,SAC,47.3,28.8,4.3,3.4,1.1,0.3,3.0,zach lavine
 Thanasis Antetokounmpo,MIL,45.5,28.6,7.9,0.0,4.8,4.8,1.6,thanasis antetokounmpo
-Jordan Poole,NOP,45.8,28.4,3.3,5.5,1.1,0.6,2.6,jordan poole
-Jaren Jackson Jr.,MEM,46.3,28.2,8.8,3.1,1.4,2.3,3.3,jaren jackson jr
-Nickeil Alexander-Walker,ATL,45.3,28.2,4.6,4.5,1.3,0.9,2.9,nickeil alexander walker
-Miles Bridges,CHA,47.6,28.2,8.8,5.4,0.8,0.8,2.0,miles bridges
-CJ McCollum,WAS,46.6,27.9,5.1,5.5,1.1,0.4,2.4,cj mccollum
-Johnny Juzang,MIN,43.5,27.6,9.2,4.6,1.1,0.0,1.1,johnny juzang
-Kon Knueppel,CHA,47.3,27.5,7.3,5.1,1.0,0.3,3.4,kon knueppel
-Kevin Porter Jr.,MIL,48.6,27.5,7.7,10.9,3.3,0.6,5.1,kevin porter jr
-Stephon Castle,SAS,46.7,27.4,7.5,10.7,1.9,0.4,5.8,stephon castle
-Marcus Sasser,DET,45.0,27.4,5.3,12.6,2.1,0.0,2.1,marcus sasser
-Keldon Johnson,SAS,47.0,27.1,13.1,2.8,1.3,0.2,1.8,keldon johnson
-Jalen Suggs,ORL,45.4,27.0,6.5,8.3,3.4,1.0,4.8,jalen suggs
-Derrick White,BOS,49.3,27.0,6.3,7.6,2.0,2.2,2.8,derrick white
-Anfernee Simons,BOS,48.9,27.0,4.6,4.7,1.1,0.3,2.0,anfernee simons
-Trey Murphy III,NOP,46.4,26.9,8.0,4.5,2.1,0.3,2.5,trey murphy iii
+Alex Sarr,WAS,46.5,28.5,12.8,4.9,1.3,3.8,2.9,alex sarr
+Miles Bridges,CHA,47.9,28.4,9.2,5.3,0.8,0.8,2.1,miles bridges
+Tolu Smith,DET,47.5,28.3,23.3,5.0,1.7,1.7,3.3,tolu smith
+CJ McCollum,WAS,46.5,28.3,5.3,5.4,1.0,0.4,2.5,cj mccollum
+Jaren Jackson Jr.,MEM,46.3,28.2,8.5,3.0,1.4,2.2,3.3,jaren jackson jr
+Nickeil Alexander-Walker,ATL,45.3,28.1,4.8,4.6,1.4,0.9,2.9,nickeil alexander walker
+Anfernee Simons,BOS,49.3,28.0,4.8,4.9,1.0,0.2,2.2,anfernee simons
+Kon Knueppel,CHA,47.4,27.8,7.4,5.1,0.9,0.3,3.5,kon knueppel
+Trey Murphy III,NOP,46.4,27.7,8.0,4.5,2.0,0.3,2.5,trey murphy iii
+Keldon Johnson,SAS,46.9,27.0,12.8,2.6,1.3,0.2,1.8,keldon johnson
+Bobby Portis,MIL,48.3,27.0,13.4,2.7,1.1,0.3,2.2,bobby portis
+Jalen Suggs,ORL,45.5,26.9,6.5,8.3,3.3,0.9,4.8,jalen suggs
+Derrick White,BOS,49.6,26.9,6.4,7.7,2.0,2.3,2.7,derrick white
 Pete Nance,MIL,47.1,26.9,10.4,1.5,0.0,0.0,3.0,pete nance
-Bennedict Mathurin,IND,47.4,26.8,8.0,3.1,1.0,0.3,3.5,bennedict mathurin
+Stephon Castle,SAS,46.6,26.8,7.8,10.4,2.0,0.4,5.6,stephon castle
 Josh Giddey,CHI,45.7,26.8,12.4,12.5,1.3,0.5,5.0,josh giddey
-Bobby Portis,MIL,48.1,26.8,13.0,2.8,1.2,0.3,2.2,bobby portis
-Jalen Williams,OKC,46.4,26.8,8.3,8.7,2.6,0.7,3.0,jalen williams
-Scottie Barnes,TOR,47.6,26.7,12.1,7.4,1.9,2.1,3.6,scottie barnes
-Desmond Bane,ORL,47.0,26.6,6.4,6.4,1.0,0.7,3.0,desmond bane
-Bam Adebayo,MIA,46.2,26.5,14.2,3.7,1.5,1.3,2.8,bam adebayo
-Paul George,PHI,47.4,26.5,8.7,5.5,2.2,0.7,3.1,paul george
-Tristan Vukcevic,WAS,45.5,26.4,9.9,3.6,1.1,2.0,4.1,tristan vukcevic
-Jamaree Bouyea,PHX,49.1,26.4,6.2,6.2,1.6,1.4,1.4,jamaree bouyea
-Cooper Flagg,DAL,46.8,26.3,8.7,5.4,1.6,1.1,3.0,cooper flagg
-DeMar DeRozan,SAC,47.0,26.2,4.9,5.3,2.0,0.4,1.5,demar derozan
-Ryan Rollins,MIL,48.3,26.2,6.5,8.9,2.4,0.5,3.8,ryan rollins
-Darius Garland,CLE,46.1,26.0,4.1,10.5,1.1,0.2,4.5,darius garland
-T.J. McConnell,IND,45.5,25.9,6.7,12.7,3.0,0.6,3.2,t j mcconnell
-Andrew Nembhard,IND,47.4,25.8,3.6,10.1,1.4,0.2,3.6,andrew nembhard
-Evan Mobley,CLE,46.8,25.8,12.8,5.6,1.3,2.4,3.1,evan mobley
-Dylan Harper,SAS,47.6,25.7,7.4,8.8,2.3,0.1,3.7,dylan harper
+Darius Garland,CLE,46.3,26.7,3.9,10.4,1.0,0.1,4.4,darius garland
+Scottie Barnes,TOR,47.4,26.6,11.8,7.3,1.9,2.1,3.6,scottie barnes
+Jalen Williams,OKC,46.4,26.5,8.0,8.5,2.2,0.6,3.1,jalen williams
+Jordan Poole,NOP,45.9,26.5,3.0,5.9,1.2,0.7,3.1,jordan poole
+Desmond Bane,ORL,47.0,26.3,6.3,6.3,1.1,0.7,3.1,desmond bane
+Tristan Vukcevic,WAS,45.4,26.3,9.6,3.8,1.0,2.2,4.1,tristan vukcevic
+Kevin Porter Jr.,MIL,48.5,26.2,7.2,11.1,3.1,0.5,4.7,kevin porter jr
+Ryan Rollins,MIL,48.3,26.2,6.6,8.7,2.4,0.5,3.6,ryan rollins
+Bennedict Mathurin,IND,47.4,26.2,8.1,3.2,1.0,0.2,3.5,bennedict mathurin
+DeMar DeRozan,SAC,47.0,26.1,4.8,5.4,2.0,0.4,1.6,demar derozan
+T.J. McConnell,IND,45.5,25.7,6.4,12.5,3.0,0.6,3.3,t j mcconnell
+Andrew Nembhard,IND,47.3,25.7,3.6,10.4,1.4,0.2,3.5,andrew nembhard
+Cooper Flagg,DAL,46.8,25.6,8.8,5.7,1.7,1.1,3.0,cooper flagg
+Paul George,PHI,47.6,25.4,8.3,5.6,2.1,0.8,3.0,paul george
+Jamaree Bouyea,PHX,49.0,25.4,6.8,5.8,2.1,1.2,1.2,jamaree bouyea
+Ayo Dosunmu,CHI,46.3,25.3,4.7,6.0,1.0,0.5,2.1,ayo dosunmu
 Mac McClung,IND,45.2,25.3,5.3,1.3,6.7,1.3,2.7,mac mcclung
-Ajay Mitchell,OKC,46.2,25.3,6.3,6.4,2.6,0.6,2.6,ajay mitchell
-Payton Pritchard,BOS,49.0,25.3,6.7,7.7,1.2,0.1,1.9,payton pritchard
-Jaime Jaquez Jr.,MIA,45.4,25.1,8.3,7.3,1.1,0.3,3.3,jaime jaquez jr
+Evan Mobley,CLE,46.9,25.3,12.6,5.7,1.3,2.6,3.1,evan mobley
+Naz Reid,MIN,46.6,25.3,11.0,4.2,1.6,1.5,2.6,naz reid
+Payton Pritchard,BOS,49.1,25.2,6.7,7.7,1.3,0.1,1.7,payton pritchard
+Jaime Jaquez Jr.,MIA,45.2,25.2,8.2,7.3,1.2,0.3,3.3,jaime jaquez jr
+Bam Adebayo,MIA,46.0,25.1,14.2,3.8,1.4,1.2,2.8,bam adebayo
 Chris Livingston,CLE,48.4,25.0,8.3,2.8,2.8,0.0,0.0,chris livingston
-DaRon Holmes II,DEN,47.7,25.0,8.3,1.4,0.0,1.4,1.4,daron holmes ii
-Reed Sheppard,HOU,48.0,25.0,5.4,6.5,3.0,1.1,2.2,reed sheppard
-Cam Spencer,MEM,47.1,24.9,4.9,9.7,1.6,0.1,2.9,cam spencer
-Mark Williams,PHX,46.7,24.9,16.1,2.2,2.4,1.7,1.9,mark williams
-Zach Edey,MEM,47.1,24.9,20.2,2.0,1.2,3.5,4.3,zach edey
-Grayson Allen,PHX,47.4,24.9,4.2,6.3,2.5,0.3,2.6,grayson allen
+Nikola Vučević,CHI,46.3,25.0,14.0,5.5,1.1,0.7,2.3,nikola vucevic
 D'Angelo Russell,DAL,46.3,24.9,5.7,9.7,1.2,0.2,4.6,d angelo russell
-Jarrett Allen,CLE,45.5,24.8,13.5,3.6,1.7,1.4,2.9,jarrett allen
-Jaden Ivey,DET,46.8,24.8,6.2,5.4,2.0,0.8,2.6,jaden ivey
+Ajay Mitchell,OKC,46.2,24.9,6.1,6.4,2.7,0.6,2.5,ajay mitchell
+Jeremiah Fears,NOP,46.5,24.9,6.2,5.4,2.1,0.4,4.2,jeremiah fears
+Zach Edey,MEM,47.1,24.9,20.2,2.0,1.2,3.5,4.3,zach edey
+Grayson Allen,PHX,47.6,24.8,4.1,6.4,2.7,0.4,2.9,grayson allen
+De'Andre Hunter,CLE,46.6,24.8,7.6,3.5,1.1,0.3,2.7,de andre hunter
+Johnny Juzang,MIN,42.2,24.8,8.3,3.3,0.8,0.0,1.7,johnny juzang
+Matas Buzelis,CHI,46.1,24.7,8.7,2.8,1.3,2.3,3.0,matas buzelis
 Cam Whitmore,WAS,45.3,24.7,7.4,1.9,1.9,1.0,2.3,cam whitmore
-Malik Monk,SAC,46.2,24.7,4.3,4.7,1.7,0.8,2.8,malik monk
-Jeremiah Fears,NOP,46.5,24.7,6.1,5.4,2.1,0.2,3.9,jeremiah fears
-Nikola Vučević,CHI,46.0,24.6,13.6,5.1,1.1,0.7,2.3,nikola vucevic
-Anthony Black,ORL,47.3,24.6,6.6,5.6,2.1,1.0,3.6,anthony black
-Naz Reid,MIN,46.6,24.5,11.0,4.1,1.6,1.4,2.6,naz reid
-De'Andre Hunter,CLE,46.4,24.5,7.1,3.5,1.2,0.3,2.5,de andre hunter
-Isaiah Joe,OKC,46.3,24.4,5.9,3.2,1.3,0.4,1.7,isaiah joe
-Jordan Clarkson,NYK,47.6,24.2,4.5,3.5,1.1,0.4,2.7,jordan clarkson
-Domantas Sabonis,SAC,46.7,24.2,17.3,5.2,1.7,0.3,3.6,domantas sabonis
-Ayo Dosunmu,CHI,45.8,24.2,4.7,5.6,1.0,0.4,2.1,ayo dosunmu
-Tari Eason,HOU,48.1,24.2,10.8,3.2,2.2,1.3,3.2,tari eason
+Reed Sheppard,HOU,48.2,24.6,5.2,6.3,2.9,1.1,2.4,reed sheppard
+Tari Eason,HOU,48.1,24.5,12.2,3.1,2.2,1.2,3.1,tari eason
+Malik Monk,SAC,46.3,24.5,4.2,4.7,1.7,0.8,2.8,malik monk
+Jarrett Allen,CLE,45.7,24.4,13.9,3.7,1.8,1.4,2.9,jarrett allen
+Dylan Harper,SAS,47.4,24.3,7.1,8.1,2.4,0.4,3.3,dylan harper
+Mark Williams,PHX,46.6,24.3,16.3,2.1,2.3,1.7,2.0,mark williams
+Immanuel Quickley,TOR,47.8,24.2,6.2,9.0,1.6,0.2,2.5,immanuel quickley
 Zach Collins,CHI,45.8,24.2,14.0,3.7,0.5,1.0,2.5,zach collins
-Paul Reed,DET,45.3,24.2,16.8,4.2,3.2,2.9,4.0,paul reed
-Immanuel Quickley,TOR,47.9,24.1,6.4,9.3,1.7,0.2,2.6,immanuel quickley
-Nick Smith Jr.,LAL,47.7,23.9,3.5,3.7,1.7,0.4,2.9,nick smith jr
-Jaden Hardy,DAL,45.5,23.9,5.5,2.6,1.0,0.3,3.2,jaden hardy
-Deandre Ayton,LAL,47.9,23.8,13.9,1.4,1.3,1.6,3.0,deandre ayton
-Derik Queen,NOP,46.7,23.8,12.7,7.3,1.9,1.7,4.2,derik queen
-Kam Jones,IND,47.0,23.8,3.2,4.8,3.2,0.0,0.0,kam jones
-Ivica Zubac,LAC,48.8,23.8,17.0,3.8,0.7,1.5,3.0,ivica zubac
-Onyeka Okongwu,ATL,45.8,23.7,11.3,4.7,1.4,1.4,2.7,onyeka okongwu
+Domantas Sabonis,SAC,46.7,24.2,17.3,5.2,1.7,0.3,3.6,domantas sabonis
+Anthony Black,ORL,47.4,24.2,6.5,6.1,2.1,1.1,3.7,anthony black
+Amen Thompson,HOU,48.9,24.2,10.0,7.0,1.8,0.8,3.4,amen thompson
+Cam Spencer,MEM,46.9,24.1,5.1,9.9,1.5,0.1,2.9,cam spencer
+Marvin Bagley III,WAS,46.5,24.1,13.4,3.7,1.2,1.7,2.6,marvin bagley iii
+Brandon Williams,DAL,45.7,24.1,5.6,7.9,2.5,0.4,3.8,brandon williams
+Jaden Hardy,DAL,45.3,24.0,5.5,2.6,1.0,0.3,3.5,jaden hardy
+Tim Hardaway Jr.,DEN,47.3,23.9,4.1,2.4,0.8,0.2,0.6,tim hardaway jr
+Jase Richardson,ORL,47.3,23.7,5.6,5.6,1.2,0.2,2.6,jase richardson
+Sam Merrill,CLE,45.6,23.7,4.2,4.3,1.1,0.3,1.7,sam merrill
 Obi Toppin,IND,46.4,23.7,11.3,2.8,1.7,0.0,3.4,obi toppin
-Marvin Bagley III,WAS,46.6,23.7,13.0,4.0,1.1,1.7,2.4,marvin bagley iii
-Brandon Williams,DAL,46.0,23.7,5.2,8.1,2.5,0.5,3.8,brandon williams
-Tre Johnson,WAS,45.6,23.7,5.5,3.2,0.9,0.8,2.8,tre johnson
-Matas Buzelis,CHI,45.5,23.6,8.7,2.5,1.4,2.3,2.9,matas buzelis
-Santi Aldama,MEM,46.0,23.6,11.0,4.9,1.6,1.2,2.2,santi aldama
 Jeff Green,HOU,50.9,23.6,4.9,1.6,0.0,0.8,0.8,jeff green
-Amen Thompson,HOU,48.8,23.6,9.8,7.1,1.7,0.7,3.5,amen thompson
+Ivica Zubac,LAC,48.9,23.6,17.0,3.8,0.6,1.5,2.9,ivica zubac
+Jordan Clarkson,NYK,47.5,23.6,4.4,3.4,1.0,0.3,2.7,jordan clarkson
 Saddiq Bey,NOP,46.4,23.5,9.1,3.6,1.5,0.1,1.0,saddiq bey
-Sandro Mamukelashvili,TOR,47.3,23.5,10.8,3.8,1.6,1.3,2.0,sandro mamukelashvili
-Asa Newell,ATL,45.8,23.4,8.7,2.3,1.6,1.3,2.3,asa newell
-Cedric Coward,MEM,45.7,23.4,10.9,4.9,0.9,0.5,2.7,cedric coward
-Russell Westbrook,SAC,46.6,23.4,10.8,11.3,2.3,0.2,5.4,russell westbrook
-Collin Gillespie,PHX,47.0,23.3,6.8,8.5,2.3,0.6,3.2,collin gillespie
-Kyle Kuzma,MIL,47.6,23.3,8.8,4.0,1.3,1.0,3.2,kyle kuzma
-Thomas Bryant,CLE,46.6,23.3,13.3,2.0,1.1,1.8,1.6,thomas bryant
-Sam Merrill,CLE,45.6,23.3,4.0,4.4,1.2,0.3,1.6,sam merrill
-Jalen Smith,CHI,45.4,23.3,16.1,3.4,0.8,1.9,2.3,jalen smith
-Branden Carlson,OKC,47.0,23.2,9.9,2.8,0.6,2.2,1.7,branden carlson
-Tim Hardaway Jr.,DEN,47.1,23.2,4.2,2.5,0.8,0.2,0.7,tim hardaway jr
-Andrew Wiggins,MIA,45.5,23.1,6.8,4.2,1.6,1.6,2.3,andrew wiggins
-Kel'el Ware,MIA,45.5,23.1,19.4,0.9,1.8,2.3,1.9,kel el ware
-Jaylon Tyson,CLE,47.0,23.1,9.5,3.2,1.8,1.0,2.1,jaylon tyson
+John Collins,LAC,49.4,23.5,9.0,1.6,1.6,1.5,2.6,john collins
+Tre Johnson,WAS,45.7,23.5,5.7,3.5,1.2,0.7,3.0,tre johnson
+Cedric Coward,MEM,45.7,23.5,11.2,5.0,1.0,0.6,2.7,cedric coward
+Russell Westbrook,SAC,46.7,23.4,10.6,10.9,2.3,0.3,5.3,russell westbrook
+Kyle Kuzma,MIL,47.9,23.4,8.8,4.1,1.3,0.9,3.1,kyle kuzma
+Jaden Ivey,DET,46.8,23.4,6.0,5.2,1.7,0.9,2.4,jaden ivey
+Onyeka Okongwu,ATL,45.6,23.3,11.3,4.7,1.6,1.4,2.6,onyeka okongwu
+Jalen Smith,CHI,45.7,23.3,16.2,3.4,0.9,2.2,2.3,jalen smith
+Sandro Mamukelashvili,TOR,47.3,23.2,11.0,4.2,1.6,1.3,1.9,sandro mamukelashvili
+Derik Queen,NOP,46.4,23.1,13.0,7.3,1.9,1.7,4.3,derik queen
+Santi Aldama,MEM,46.1,23.1,11.1,4.9,1.5,1.2,2.2,santi aldama
+Deandre Ayton,LAL,47.8,23.1,13.7,1.5,1.3,1.7,2.8,deandre ayton
+Thomas Bryant,CLE,46.4,23.0,13.1,2.0,1.2,1.9,1.7,thomas bryant
 Tobias Harris,DET,47.0,23.0,7.8,4.2,1.0,0.4,1.7,tobias harris
-Brice Sensabaugh,UTA,45.9,23.0,6.8,3.6,1.5,0.4,2.3,brice sensabaugh
-Kelly Oubre Jr.,PHI,47.8,23.0,7.0,1.8,1.5,1.1,2.1,kelly oubre jr
-John Collins,LAC,49.3,22.9,8.7,1.7,1.6,1.4,2.7,john collins
-Aaron Nesmith,IND,46.4,22.9,7.6,2.4,1.4,0.8,1.1,aaron nesmith
-Klay Thompson,DAL,45.0,22.9,5.2,2.6,0.9,0.7,1.7,klay thompson
+Isaiah Joe,OKC,46.5,23.0,6.0,3.3,1.3,0.3,1.6,isaiah joe
+Collin Gillespie,PHX,47.2,23.0,7.0,8.4,2.4,0.5,3.0,collin gillespie
 Walker Kessler,UTA,49.0,22.9,17.2,4.8,2.2,2.9,5.1,walker kessler
+Luka Garza,BOS,48.7,22.9,12.7,3.0,1.2,1.5,1.2,luka garza
+Jock Landale,MEM,46.5,22.8,12.7,3.5,1.0,1.0,2.1,jock landale
 Jrue Holiday,POR,45.7,22.8,7.2,11.3,2.2,0.3,4.0,jrue holiday
-Noah Clowney,BKN,48.8,22.8,6.9,3.3,1.2,1.4,3.2,noah clowney
-Jock Landale,MEM,46.4,22.8,12.2,3.4,1.1,1.1,2.2,jock landale
-Luka Garza,BOS,48.1,22.7,13.3,3.0,0.9,1.5,1.5,luka garza
-Aaron Holiday,HOU,47.8,22.7,3.1,3.2,1.1,0.4,2.8,aaron holiday
-Jabari Smith Jr.,HOU,49.0,22.6,9.9,2.8,1.0,1.1,2.0,jabari smith jr
+Aaron Nesmith,IND,46.1,22.8,7.5,3.3,1.2,0.9,1.7,aaron nesmith
+Andrew Wiggins,MIA,45.5,22.7,6.8,4.1,1.7,1.6,2.3,andrew wiggins
+Noah Clowney,BKN,48.9,22.7,6.7,3.3,1.3,1.5,3.1,noah clowney
+Brice Sensabaugh,UTA,45.9,22.7,6.7,3.6,1.6,0.3,2.8,brice sensabaugh
+Miles McBride,NYK,48.1,22.6,4.5,4.3,1.2,0.4,1.3,miles mcbride
 Jonathan Kuminga,GSW,47.6,22.6,11.9,4.9,0.5,0.6,4.7,jonathan kuminga
-Maxime Raynaud,SAC,47.2,22.6,13.3,2.2,0.9,1.3,2.3,maxime raynaud
-P.J. Washington,DAL,46.3,22.3,11.2,2.8,1.5,2.1,3.4,p j washington
-Simone Fontecchio,MIA,45.2,22.2,7.2,4.1,1.1,0.4,2.3,simone fontecchio
-OG Anunoby,NYK,47.0,22.2,7.9,3.0,2.7,1.1,2.9,og anunoby
+Paul Reed,DET,46.2,22.5,16.3,4.7,2.9,2.3,3.3,paul reed
+Klay Thompson,DAL,44.9,22.4,5.2,2.5,0.8,0.6,1.7,klay thompson
+Leonard Miller,MIN,41.9,22.4,11.5,2.4,1.8,0.0,3.6,leonard miller
+Caleb Love,POR,46.2,22.4,5.9,5.1,1.0,0.2,2.4,caleb love
+Dennis Schröder,SAC,47.5,22.3,5.7,10.1,1.4,0.3,3.4,dennis schroder
+OG Anunoby,NYK,47.1,22.2,7.9,3.0,2.6,1.1,3.1,og anunoby
+Kel'el Ware,MIA,45.3,22.2,19.2,1.0,1.7,2.3,1.9,kel el ware
+Simone Fontecchio,MIA,45.2,22.2,7.4,4.0,1.2,0.4,2.4,simone fontecchio
 Koby Brea,PHX,43.4,22.2,5.6,11.1,0.0,0.0,0.0,koby brea
-Devin Vassell,SAS,47.0,22.1,5.9,3.6,1.3,0.7,1.4,devin vassell
-Miles McBride,NYK,48.2,22.1,4.7,4.4,1.2,0.4,1.2,miles mcbride
-Mikal Bridges,NYK,48.0,22.1,6.2,5.9,2.2,1.2,1.4,mikal bridges
-Kevin Huerter,CHI,44.9,22.0,6.7,4.2,1.5,1.2,2.2,kevin huerter
-Jaden McDaniels,MIN,47.5,22.0,6.8,4.0,1.5,1.3,2.7,jaden mcdaniels
-Jase Richardson,ORL,47.5,22.0,6.2,5.7,1.6,0.2,2.7,jase richardson
+Devin Vassell,SAS,47.1,22.1,6.0,3.6,1.3,0.7,1.4,devin vassell
+Kelly Oubre Jr.,PHI,47.8,22.1,7.0,1.9,1.6,1.1,2.0,kelly oubre jr
+Branden Carlson,OKC,47.0,22.0,11.2,2.7,0.8,2.1,1.7,branden carlson
+Jaylon Tyson,CLE,47.0,22.0,9.4,3.4,1.8,1.0,2.1,jaylon tyson
+Mikal Bridges,NYK,48.0,22.0,6.3,6.0,2.2,1.2,1.4,mikal bridges
+VJ Edgecombe,PHI,48.1,22.0,7.3,5.6,2.1,0.7,2.3,vj edgecombe
 Kyshawn George,WAS,46.5,21.9,8.3,7.4,1.5,1.3,4.6,kyshawn george
-Nic Claxton,BKN,48.8,21.9,12.5,6.9,1.3,2.1,2.5,nic claxton
-Dennis Schröder,SAC,47.4,21.9,5.9,10.0,1.4,0.3,3.5,dennis schroder
-Aaron Wiggins,OKC,47.0,21.8,5.7,3.6,1.3,1.0,2.3,aaron wiggins
-Naji Marshall,DAL,46.3,21.8,7.7,4.2,1.7,0.1,2.0,naji marshall
-Quenton Jackson,IND,45.5,21.7,6.5,5.6,1.7,0.2,3.7,quenton jackson
-Quentin Grimes,PHI,47.4,21.7,5.6,6.3,1.4,0.6,3.4,quentin grimes
-VJ Edgecombe,PHI,48.1,21.7,7.4,5.4,1.8,0.6,2.3,vj edgecombe
+Kevin Huerter,CHI,45.4,21.9,7.1,4.4,1.5,1.2,2.3,kevin huerter
+Daniss Jenkins,DET,46.8,21.8,5.1,9.5,2.4,0.3,3.7,daniss jenkins
+Nic Claxton,BKN,49.0,21.8,12.7,6.7,1.2,2.1,2.5,nic claxton
+Aaron Holiday,HOU,48.1,21.8,3.0,3.2,1.5,0.5,2.6,aaron holiday
+PJ Hall,CHA,46.5,21.8,15.6,1.9,0.3,2.9,2.9,pj hall
+Jabari Smith Jr.,HOU,49.0,21.7,9.7,2.8,1.0,1.0,1.9,jabari smith jr
+Jaden McDaniels,MIN,47.3,21.7,6.7,4.1,1.7,1.3,2.6,jaden mcdaniels
+P.J. Washington,DAL,46.3,21.7,11.0,2.8,1.5,2.1,3.2,p j washington
 Jacob Toppin,ATL,45.6,21.6,2.7,2.7,0.0,2.7,0.0,jacob toppin
-Bones Hyland,MIN,46.2,21.6,4.7,7.4,1.9,0.8,2.9,bones hyland
-Yanic Konan Niederhäuser,LAC,50.0,21.5,11.2,2.0,0.8,2.4,2.8,yanic konan niederhauser
-Caleb Love,POR,45.8,21.5,5.6,5.0,1.2,0.3,2.3,caleb love
-Jevon Carter,CHI,45.7,21.5,4.3,3.7,2.4,0.0,2.0,jevon carter
-Jordan Miller,LAC,50.4,21.4,10.3,3.9,1.1,1.1,3.2,jordan miller
-Kevin McCullar Jr.,NYK,47.5,21.4,11.2,5.1,2.0,0.0,5.1,kevin mccullar jr
-Brandin Podziemski,GSW,47.0,21.4,7.6,5.5,1.8,0.3,2.6,brandin podziemski
-PJ Hall,CHA,45.2,21.3,14.7,2.7,0.7,1.3,2.0,pj hall
-Caleb Houstan,ATL,45.6,21.3,5.3,2.1,1.1,1.1,4.3,caleb houstan
-Daniss Jenkins,DET,46.2,21.2,5.2,8.5,2.6,0.1,3.8,daniss jenkins
-Jett Howard,ORL,47.6,21.2,5.9,3.6,0.8,0.6,1.0,jett howard
+Jevon Carter,CHI,46.0,21.6,4.3,3.7,2.3,0.0,2.1,jevon carter
+Quentin Grimes,PHI,47.4,21.6,5.6,5.9,1.5,0.8,3.1,quentin grimes
+Quenton Jackson,IND,45.4,21.6,6.5,5.6,1.7,0.2,3.7,quenton jackson
+Asa Newell,ATL,45.4,21.5,8.2,2.4,1.5,1.2,2.4,asa newell
+Naji Marshall,DAL,46.1,21.4,7.5,4.1,1.6,0.1,2.0,naji marshall
+Aaron Wiggins,OKC,47.0,21.3,6.1,3.5,1.3,1.3,2.3,aaron wiggins
+Maxime Raynaud,SAC,47.3,21.3,13.1,2.2,0.9,1.1,2.0,maxime raynaud
+Jett Howard,ORL,47.8,21.2,6.6,3.9,0.7,0.7,0.8,jett howard
 Eric Gordon,PHI,47.3,21.2,1.3,1.9,2.6,0.6,1.9,eric gordon
-Malaki Branham,WAS,47.5,21.2,9.3,4.0,0.7,0.3,3.0,malaki branham
-Pat Spencer,GSW,48.2,21.2,7.1,9.6,2.3,0.1,2.8,pat spencer
-Jaylen Wells,MEM,46.8,21.0,6.1,3.1,1.6,0.2,1.8,jaylen wells
-Ausar Thompson,DET,47.9,21.0,10.6,4.8,2.8,1.3,2.8,ausar thompson
-Isaiah Stewart,DET,47.2,21.0,12.0,2.3,0.4,4.0,2.5,isaiah stewart
-Tyrese Proctor,CLE,47.5,21.0,5.7,5.8,1.3,0.0,1.8,tyrese proctor
-Day'Ron Sharpe,BKN,48.4,21.0,16.6,6.5,2.7,1.3,4.7,day ron sharpe
-Myles Turner,MIL,47.8,20.9,9.0,2.7,1.3,2.7,1.6,myles turner
-Vít Krejčí,ATL,46.8,20.8,4.3,3.2,1.4,0.6,1.5,vit krejci
+Nick Smith Jr.,LAL,47.3,21.2,3.0,3.7,1.3,0.3,2.5,nick smith jr
+Corey Kispert,WAS,45.0,21.2,5.4,3.9,1.0,0.4,1.7,corey kispert
+De'Anthony Melton,GSW,48.4,21.1,5.9,4.1,4.0,1.3,3.2,de anthony melton
+Bones Hyland,MIN,46.6,21.1,4.8,8.0,1.8,0.7,2.8,bones hyland
+Peyton Watson,DEN,47.6,21.1,7.8,2.6,1.6,1.7,2.5,peyton watson
+Derrick Jones Jr.,LAC,48.7,20.9,5.3,2.4,1.5,2.1,1.7,derrick jones jr
+Isaiah Stewart,DET,47.4,20.9,11.3,2.2,0.5,4.1,2.5,isaiah stewart
+Jaylen Wells,MEM,46.7,20.9,6.0,3.1,1.6,0.1,1.8,jaylen wells
+Ausar Thompson,DET,48.1,20.9,10.8,4.7,2.8,1.4,3.0,ausar thompson
+Tyrese Proctor,CLE,47.7,20.8,5.6,5.8,1.3,0.0,1.8,tyrese proctor
 Emanuel Miller,CHI,45.9,20.8,4.2,5.6,2.8,0.0,0.0,emanuel miller
-Jamison Battle,TOR,47.5,20.8,8.2,2.2,1.0,0.2,1.9,jamison battle
-Tre Jones,CHI,44.7,20.8,4.8,8.7,2.4,0.4,2.2,tre jones
-Tre Mann,CHA,48.3,20.7,7.1,6.5,1.5,0.3,4.2,tre mann
-Brook Lopez,LAC,49.8,20.7,7.8,2.4,1.0,2.9,2.7,brook lopez
-E.J. Liddell,BKN,47.2,20.6,13.2,0.0,0.0,0.0,0.0,e j liddell
-David Jones Garcia,SAS,43.3,20.6,7.7,11.6,3.9,0.6,3.2,david jones garcia
-Corey Kispert,WAS,45.0,20.6,5.5,4.1,1.0,0.4,1.4,corey kispert
+Jordan Miller,LAC,50.1,20.8,10.5,4.3,1.1,0.8,3.0,jordan miller
+Jordan Goodwin,PHX,48.3,20.7,10.1,5.0,3.2,0.4,2.6,jordan goodwin
+Day'Ron Sharpe,BKN,48.6,20.7,16.0,6.9,2.9,1.3,4.4,day ron sharpe
+Zaccharie Risacher,ATL,45.3,20.6,6.1,2.7,1.6,1.0,1.7,zaccharie risacher
+Myles Turner,MIL,47.7,20.6,8.8,2.7,1.2,2.7,1.6,myles turner
+Tre Mann,CHA,48.4,20.6,7.1,6.5,1.5,0.3,4.1,tre mann
+Jamison Battle,TOR,47.8,20.6,8.2,2.1,0.9,0.2,1.9,jamison battle
+Quinten Post,GSW,47.3,20.6,10.3,3.8,1.4,1.3,2.0,quinten post
+Caleb Houstan,ATL,45.8,20.6,5.2,2.1,1.0,1.0,4.1,caleb houstan
 DeAndre Jordan,NOP,53.0,20.5,22.7,0.0,0.0,0.0,2.3,deandre jordan
+David Jones Garcia,SAS,43.6,20.5,8.3,11.5,3.8,0.6,3.2,david jones garcia
+Brandin Podziemski,GSW,47.1,20.5,7.8,5.8,1.8,0.3,2.4,brandin podziemski
 Landry Shamet,NYK,46.3,20.5,4.4,2.7,0.9,0.4,1.0,landry shamet
-Nae'Qwan Tomlin,CLE,48.2,20.4,9.2,2.0,2.3,2.1,1.1,nae qwan tomlin
 Antonio Reeves,CHA,51.5,20.4,4.9,1.9,1.0,0.0,0.0,antonio reeves
-Pat Connaughton,CHA,47.3,20.4,9.3,3.0,1.9,0.4,1.1,pat connaughton
-Moses Moody,GSW,46.6,20.4,6.4,3.0,1.8,1.4,1.9,moses moody
 Cole Anthony,MIL,46.6,20.3,8.0,11.4,2.0,0.9,5.9,cole anthony
-Trendon Watford,PHI,46.2,20.2,10.5,8.1,1.0,0.5,3.4,trendon watford
-Neemias Queta,BOS,49.7,20.2,15.5,3.1,1.6,2.5,1.7,neemias queta
-Dalton Knecht,LAL,47.7,20.2,6.5,1.7,1.0,1.1,1.2,dalton knecht
-Ace Bailey,UTA,46.0,20.0,6.3,3.0,1.4,0.7,2.4,ace bailey
+Vít Krejčí,ATL,46.6,20.3,4.5,3.2,1.7,0.6,1.5,vit krejci
+Myron Gardner,MIA,41.8,20.2,9.3,3.9,3.1,0.0,0.8,myron gardner
+Neemias Queta,BOS,49.6,20.2,16.5,2.9,1.5,2.6,1.7,neemias queta
+Anthony Gill,WAS,45.3,20.0,10.3,0.0,0.7,1.4,3.4,anthony gill
+Max Christie,DAL,46.9,20.0,5.6,3.4,0.8,0.7,1.9,max christie
 Hunter Dickinson,NOP,47.2,20.0,0.0,0.0,0.0,10.0,20.0,hunter dickinson
-Donte DiVincenzo,MIN,47.2,20.0,6.6,6.1,1.9,0.7,1.9,donte divincenzo
-Kevin Love,UTA,46.1,20.0,14.1,4.9,1.0,1.0,1.9,kevin love
-Quinten Post,GSW,47.5,20.0,10.8,3.8,1.5,1.5,2.1,quinten post
-Zaccharie Risacher,ATL,45.3,19.9,5.5,2.7,1.8,1.0,1.6,zaccharie risacher
-Danny Wolf,BKN,48.3,19.9,10.0,4.7,1.0,0.5,3.8,danny wolf
+Egor Dëmin,BKN,48.4,20.0,6.6,6.8,1.8,0.6,3.7,egor demin
+Nikola Jović,MIA,44.4,20.0,8.8,6.9,1.6,0.9,4.2,nikola jovic
+Tre Jones,CHI,45.3,20.0,5.0,9.2,2.2,0.3,2.3,tre jones
+Pat Connaughton,CHA,47.5,19.9,9.1,3.3,1.8,0.4,1.1,pat connaughton
+Buddy Hield,GSW,46.5,19.9,6.5,3.8,2.2,0.2,2.9,buddy hield
 Bradley Beal,LAC,49.2,19.9,2.0,4.1,1.2,0.0,3.7,bradley beal
-Nikola Jović,MIA,44.2,19.8,9.0,7.0,1.4,0.7,4.1,nikola jovic
-Derrick Jones Jr.,LAC,48.8,19.8,4.7,2.3,1.7,2.2,1.5,derrick jones jr
+Moses Moody,GSW,46.6,19.9,6.1,2.8,1.9,1.3,1.9,moses moody
+Ace Bailey,UTA,45.9,19.8,6.3,2.9,1.5,0.7,2.3,ace bailey
+Kyle Anderson,UTA,46.7,19.8,7.5,7.0,3.6,1.2,2.7,kyle anderson
+Trendon Watford,PHI,46.1,19.8,10.3,8.4,1.0,0.5,3.3,trendon watford
 Isaiah Hartenstein,OKC,47.5,19.8,18.3,5.2,2.0,1.3,3.7,isaiah hartenstein
-Buddy Hield,GSW,46.4,19.8,6.6,3.8,2.1,0.3,2.8,buddy hield
-Jordan Goodwin,PHX,48.1,19.7,10.5,4.7,3.3,0.4,2.8,jordan goodwin
-Leonard Miller,MIN,42.5,19.7,10.2,3.1,1.6,0.0,3.9,leonard miller
-Kyle Filipowski,UTA,46.0,19.7,12.9,4.5,1.1,1.1,2.4,kyle filipowski
-Olivier-Maxence Prosper,MEM,44.8,19.6,8.5,3.4,0.7,0.2,2.2,olivier maxence prosper
-Egor Dëmin,BKN,48.4,19.6,6.2,6.9,1.8,0.6,3.8,egor demin
-Caris LeVert,DET,46.9,19.6,4.1,6.5,2.0,1.3,3.2,caris levert
+Pat Spencer,GSW,48.1,19.7,6.8,10.2,2.2,0.1,3.0,pat spencer
+Kyle Filipowski,UTA,46.5,19.7,12.8,4.4,1.1,1.1,2.5,kyle filipowski
+Brook Lopez,LAC,49.9,19.7,7.4,2.5,1.1,3.0,2.4,brook lopez
+Caris LeVert,DET,47.0,19.7,4.2,6.7,1.9,1.5,3.2,caris levert
+Donte DiVincenzo,MIN,47.0,19.6,6.8,6.0,1.9,0.7,1.8,donte divincenzo
+Nae'Qwan Tomlin,CLE,48.1,19.6,9.5,1.8,2.1,2.3,1.2,nae qwan tomlin
+Donovan Clingan,POR,46.9,19.5,18.6,3.1,0.8,2.4,1.6,donovan clingan
+Keegan Murray,SAC,48.0,19.5,8.2,2.0,1.6,2.1,1.5,keegan murray
 Josh Hart,NYK,48.4,19.5,12.8,8.1,2.2,0.5,3.4,josh hart
-Harrison Barnes,SAS,47.3,19.5,5.4,3.5,1.5,0.2,1.8,harrison barnes
-Julian Strawther,DEN,46.5,19.4,6.3,2.8,0.3,0.3,2.2,julian strawther
-Will Richard,GSW,46.7,19.4,6.7,2.8,2.6,0.2,1.8,will richard
-Max Christie,DAL,46.9,19.4,5.6,3.5,0.8,0.7,1.9,max christie
-Tidjane Salaün,CHA,48.0,19.4,11.8,2.6,1.6,0.7,1.7,tidjane salaun
+Ziaire Williams,BKN,48.3,19.5,5.2,1.4,2.4,1.1,2.1,ziaire williams
 Seth Curry,GSW,44.6,19.4,5.6,4.2,2.8,0.0,0.0,seth curry
-Keegan Murray,SAC,48.1,19.3,8.0,1.9,1.8,2.1,1.4,keegan murray
-Doug McDermott,SAC,45.7,19.3,3.7,0.9,0.0,0.9,1.8,doug mcdermott
-Wendell Carter Jr.,ORL,47.2,19.2,11.8,3.1,1.1,1.1,2.0,wendell carter jr
-Peyton Watson,DEN,47.2,19.2,8.0,2.4,1.7,1.7,2.2,peyton watson
+Bryce McGowens,NOP,46.0,19.4,5.2,3.3,1.6,0.3,1.4,bryce mcgowens
+Jamal Cain,ORL,46.3,19.3,5.0,1.7,1.7,0.4,1.7,jamal cain
+Tristan da Silva,ORL,46.9,19.3,7.4,2.4,1.6,0.4,1.8,tristan da silva
+Wendell Carter Jr.,ORL,47.3,19.3,12.0,3.2,1.1,1.0,1.9,wendell carter jr
+Kevin Love,UTA,46.2,19.3,14.5,5.3,0.9,0.9,1.9,kevin love
+Malaki Branham,WAS,46.9,19.3,8.6,5.1,1.3,0.5,2.8,malaki branham
 Harrison Ingram,SAS,41.4,19.2,11.5,0.0,0.0,0.0,0.0,harrison ingram
-Tyrese Martin,BKN,48.7,19.1,7.6,5.7,1.6,0.3,2.6,tyrese martin
-De'Anthony Melton,GSW,48.0,19.1,5.2,5.0,4.2,1.5,3.5,de anthony melton
-Tristan da Silva,ORL,46.9,19.1,8.0,2.4,1.5,0.5,1.8,tristan da silva
-Mohamed Diawara,NYK,44.9,19.0,7.3,4.3,2.3,1.0,2.3,mohamed diawara
-Jamal Cain,ORL,46.3,19.0,4.5,2.0,2.0,0.5,2.0,jamal cain
-Donovan Clingan,POR,46.5,19.0,18.4,3.0,0.9,2.5,1.6,donovan clingan
-Anthony Gill,WAS,44.9,18.9,10.0,0.0,0.0,1.1,4.4,anthony gill
-Ziaire Williams,BKN,48.1,18.9,5.4,1.5,1.9,1.0,2.3,ziaire williams
-Kenrich Williams,OKC,47.9,18.8,9.5,6.1,2.0,0.2,2.2,kenrich williams
-Pelle Larsson,MIA,45.2,18.8,5.4,6.7,1.1,0.5,1.9,pelle larsson
-Ronald Holland II,DET,46.5,18.8,8.7,3.4,3.2,0.5,3.0,ronald holland ii
-Bryce McGowens,NOP,46.0,18.7,5.2,3.6,1.4,0.4,1.1,bryce mcgowens
+Olivier-Maxence Prosper,MEM,45.3,19.1,9.0,3.0,0.8,0.2,2.4,olivier maxence prosper
+Jordan McLaughlin,SAS,45.3,19.1,4.7,6.0,3.7,0.0,2.3,jordan mclaughlin
+Jay Huff,IND,46.6,19.1,9.0,3.2,0.8,5.1,1.9,jay huff
+Pelle Larsson,MIA,45.0,19.0,5.4,6.6,1.2,0.4,2.0,pelle larsson
+E.J. Liddell,BKN,47.5,18.9,12.2,0.0,0.0,0.0,0.0,e j liddell
+Will Richard,GSW,46.7,18.9,6.6,2.7,2.4,0.1,1.9,will richard
+Micah Potter,IND,44.4,18.9,9.1,4.1,0.6,0.9,1.9,micah potter
+Yanic Konan Niederhäuser,LAC,49.6,18.9,12.7,1.9,0.6,2.5,2.5,yanic konan niederhauser
+Julian Strawther,DEN,46.8,18.8,6.6,3.9,0.3,0.3,2.2,julian strawther
+Harrison Barnes,SAS,47.2,18.8,5.3,3.5,1.4,0.2,1.7,harrison barnes
+Dalton Knecht,LAL,47.6,18.8,6.2,1.4,1.0,1.1,1.8,dalton knecht
 Isaiah Jackson,IND,46.7,18.7,15.1,2.1,1.9,2.1,2.9,isaiah jackson
-Jay Huff,IND,46.5,18.7,9.3,3.2,0.8,5.5,2.0,jay huff
-Ron Harper Jr.,BOS,47.0,18.6,7.0,9.3,2.3,4.7,0.0,ron harper jr
+Walter Clayton Jr.,UTA,46.3,18.7,5.7,8.5,1.2,0.7,3.0,walter clayton jr
+Tidjane Salaün,CHA,48.2,18.7,12.2,2.3,1.4,0.7,2.2,tidjane salaun
+GG Jackson,MEM,46.8,18.6,9.7,2.3,2.8,1.3,2.5,gg jackson
 Rui Hachimura,LAL,47.4,18.6,5.5,1.3,0.9,0.3,1.2,rui hachimura
-Cam Christie,LAC,50.0,18.5,9.3,3.0,1.5,0.5,1.5,cam christie
+Khris Middleton,WAS,46.2,18.6,7.7,6.1,1.5,0.6,2.9,khris middleton
+Daniel Gafford,DAL,46.3,18.6,14.2,2.1,2.0,3.2,3.2,daniel gafford
+Ron Harper Jr.,BOS,47.0,18.6,7.0,9.3,2.3,4.7,0.0,ron harper jr
+Tyrese Martin,BKN,48.8,18.6,7.5,5.6,1.6,0.3,2.7,tyrese martin
+Duncan Robinson,DET,47.0,18.6,4.6,3.1,1.2,0.5,1.0,duncan robinson
+Julian Champagnie,SAS,46.7,18.6,9.9,2.4,1.5,0.7,1.8,julian champagnie
+Hunter Tyson,DEN,45.3,18.4,11.8,2.6,0.7,0.7,0.7,hunter tyson
 Garrison Mathews,IND,46.1,18.4,4.0,2.4,1.4,0.7,0.7,garrison mathews
-Jordan McLaughlin,SAS,45.2,18.4,4.8,5.8,3.4,0.0,1.9,jordan mclaughlin
-Trey Alexander,NOP,49.2,18.4,5.3,5.3,1.3,1.3,1.3,trey alexander
-Walter Clayton Jr.,UTA,46.1,18.4,5.5,8.8,1.3,0.6,3.1,walter clayton jr
+Danny Wolf,BKN,48.6,18.4,9.8,4.9,1.3,0.5,3.1,danny wolf
+Jusuf Nurkić,UTA,45.5,18.4,17.3,7.7,2.4,0.7,4.4,jusuf nurkic
+Kentavious Caldwell-Pope,MEM,46.5,18.4,5.2,6.6,1.8,0.4,2.7,kentavious caldwell pope
+Rasheer Fleming,PHX,47.5,18.3,9.3,1.0,1.6,1.6,1.0,rasheer fleming
+Ronald Holland II,DET,46.8,18.3,9.4,3.1,3.1,0.8,2.9,ronald holland ii
 Cameron Johnson,DEN,47.9,18.3,5.6,3.7,1.0,0.4,1.5,cameron johnson
-Christian Braun,DEN,47.7,18.3,7.0,4.8,1.3,0.4,2.1,christian braun
-Josh Green,CHA,49.2,18.3,5.6,3.5,2.5,0.0,1.1,josh green
-Kelly Olynyk,SAS,47.2,18.3,10.3,7.0,2.0,0.0,3.0,kelly olynyk
-Duncan Robinson,DET,46.9,18.3,4.5,3.1,1.2,0.5,0.9,duncan robinson
-Khris Middleton,WAS,46.3,18.2,7.5,6.3,1.4,0.7,2.8,khris middleton
+Kenrich Williams,OKC,47.8,18.3,9.3,6.2,2.2,0.2,2.0,kenrich williams
+Karlo Matković,NOP,45.8,18.3,12.2,2.9,1.0,2.6,2.3,karlo matkovic
+Cam Christie,LAC,50.0,18.2,9.1,2.9,1.4,0.5,1.4,cam christie
 KJ Simpson,CHA,48.4,18.2,6.3,7.6,3.3,0.0,5.2,kj simpson
-Karlo Matković,NOP,45.9,18.2,13.2,3.3,0.6,2.6,2.0,karlo matkovic
-Tyler Kolek,NYK,46.7,18.2,6.4,10.7,1.7,0.4,3.1,tyler kolek
+Bilal Coulibaly,WAS,46.9,18.1,8.3,4.5,2.6,1.6,3.0,bilal coulibaly
 Jakob Poeltl,TOR,47.0,18.1,14.3,4.0,1.4,1.0,2.9,jakob poeltl
-Daniel Gafford,DAL,46.2,18.0,13.2,2.2,1.9,3.3,3.3,daniel gafford
-Gradey Dick,TOR,46.2,18.0,5.3,2.0,2.1,0.3,1.4,gradey dick
-Rasheer Fleming,PHX,47.1,18.0,8.1,1.1,1.8,1.5,1.1,rasheer fleming
-Julian Champagnie,SAS,46.7,17.9,9.5,2.3,1.5,0.8,1.7,julian champagnie
-Jalen Wilson,BKN,48.7,17.9,3.6,1.9,0.9,0.0,1.7,jalen wilson
-Josh Minott,BOS,49.5,17.9,11.1,3.1,2.2,1.1,1.8,josh minott
-Jusuf Nurkić,UTA,45.6,17.8,17.1,7.8,2.3,0.7,4.6,jusuf nurkic
-Robert Williams III,POR,46.8,17.8,18.6,2.6,1.7,4.1,1.7,robert williams iii
-Bilal Coulibaly,WAS,47.0,17.8,8.4,4.6,2.4,1.7,3.2,bilal coulibaly
-Collin Murray-Boyles,TOR,48.2,17.8,11.1,3.7,1.9,1.3,3.1,collin murray boyles
-GG Jackson,MEM,46.6,17.8,9.2,2.0,3.2,1.7,1.4,gg jackson
-Rob Dillingham,MIN,46.5,17.7,5.6,8.5,2.6,0.5,4.3,rob dillingham
-Ryan Nembhard,DAL,47.8,17.7,4.2,12.1,0.7,0.0,3.7,ryan nembhard
-Drew Eubanks,SAC,47.2,17.6,9.4,1.0,1.5,2.1,2.9,drew eubanks
-Tony Bradley,IND,47.0,17.6,11.6,2.3,0.5,0.6,1.9,tony bradley
-Will Riley,WAS,47.4,17.6,7.1,4.4,1.5,0.4,2.1,will riley
-Jose Alvarado,NOP,47.2,17.6,5.6,6.7,2.2,0.3,2.6,jose alvarado
+Toumani Camara,POR,47.0,18.0,7.3,3.9,1.5,0.6,2.9,toumani camara
+Tyler Kolek,NYK,46.7,18.0,6.7,10.0,1.5,0.3,3.2,tyler kolek
+Gradey Dick,TOR,46.1,18.0,5.7,1.9,2.1,0.3,1.5,gradey dick
+Drew Eubanks,SAC,47.5,17.9,9.4,0.9,1.4,2.2,2.9,drew eubanks
+Gary Payton II,GSW,46.9,17.9,11.8,6.6,2.1,1.4,3.2,gary payton ii
+Justin Champagnie,WAS,47.1,17.8,14.6,2.6,2.0,1.7,1.3,justin champagnie
+Josh Minott,BOS,49.5,17.8,11.2,3.1,2.3,1.1,1.7,josh minott
+Kelly Olynyk,SAS,46.8,17.8,10.1,6.7,2.2,0.2,2.8,kelly olynyk
+Noah Penda,ORL,47.2,17.7,15.1,4.3,1.8,1.5,2.7,noah penda
+Will Riley,WAS,46.9,17.7,7.2,4.5,1.4,0.5,2.7,will riley
 Bogdan Bogdanović,LAC,49.6,17.6,6.3,5.9,1.1,0.1,2.6,bogdan bogdanovic
-Jared McCain,PHI,46.5,17.6,6.4,4.5,2.3,0.0,2.3,jared mccain
+Jarace Walker,IND,45.4,17.6,8.2,3.6,1.1,0.6,3.1,jarace walker
+Joan Beringer,MIN,42.0,17.5,13.9,0.0,0.7,3.6,2.2,joan beringer
+Trey Alexander,NOP,49.8,17.5,5.0,6.3,1.3,1.3,1.3,trey alexander
 Matisse Thybulle,POR,42.8,17.5,3.5,2.6,8.8,0.0,0.9,matisse thybulle
-Toumani Camara,POR,46.7,17.5,7.2,3.9,1.5,0.6,2.9,toumani camara
-Kentavious Caldwell-Pope,MEM,46.5,17.5,4.9,7.0,1.7,0.5,2.8,kentavious caldwell pope
-Liam McNeeley,CHA,47.9,17.4,8.6,3.4,0.8,0.3,1.7,liam mcneeley
-Kyle Anderson,UTA,46.8,17.4,6.7,8.1,3.8,0.9,2.6,kyle anderson
-Duop Reath,POR,45.5,17.4,4.9,1.9,1.2,0.9,1.6,duop reath
-Jordan Walsh,BOS,49.8,17.3,11.6,2.4,2.6,1.4,1.6,jordan walsh
-Isaac Okoro,CHI,46.3,17.3,5.0,2.7,1.0,1.1,1.4,isaac okoro
-AJ Green,MIL,47.7,17.3,4.4,3.4,1.1,0.2,1.4,aj green
-Noah Penda,ORL,46.6,17.3,15.6,4.8,1.3,1.3,2.9,noah penda
-Svi Mykhailiuk,UTA,46.5,17.2,4.8,3.7,1.1,0.2,1.6,svi mykhailiuk
-Devin Carter,SAC,44.5,17.2,6.2,6.2,2.9,1.0,3.8,devin carter
-Gary Payton II,GSW,46.8,17.1,11.6,6.8,2.2,1.4,3.2,gary payton ii
-Jarace Walker,IND,45.5,17.1,8.6,3.5,1.1,0.7,3.2,jarace walker
-Jaxson Hayes,LAL,47.8,17.1,11.0,2.8,1.0,1.7,1.5,jaxson hayes
-Gui Santos,GSW,47.9,17.1,10.7,3.7,1.7,0.6,3.9,gui santos
-Ousmane Dieng,OKC,48.9,17.0,6.9,3.4,0.2,1.1,1.4,ousmane dieng
+Collin Murray-Boyles,TOR,48.3,17.4,11.4,4.1,1.9,1.3,2.8,collin murray boyles
+Ryan Nembhard,DAL,48.0,17.4,4.3,12.0,0.6,0.0,3.7,ryan nembhard
+Tony Bradley,IND,47.1,17.3,11.5,2.3,0.5,0.8,1.8,tony bradley
+Duop Reath,POR,45.6,17.3,5.1,1.8,1.2,0.9,1.6,duop reath
+Jae'Sean Tate,HOU,48.6,17.3,9.1,3.5,1.2,0.9,1.2,jae sean tate
+Jalen Wilson,BKN,48.8,17.3,3.7,1.7,1.2,0.0,1.7,jalen wilson
+Andre Drummond,PHI,48.3,17.2,21.4,2.0,1.4,2.1,2.1,andre drummond
+Kam Jones,IND,46.1,17.2,3.0,4.0,2.0,0.0,0.0,kam jones
+Jalen Pickett,DEN,48.0,17.2,7.0,7.0,0.8,0.5,2.5,jalen pickett
+Javonte Green,DET,46.3,17.2,6.5,2.0,3.2,0.8,1.5,javonte green
+Jake LaRavia,LAL,47.4,17.2,7.8,3.4,2.4,0.8,1.8,jake laravia
+Precious Achiuwa,SAC,47.2,17.1,12.7,2.7,2.0,1.0,1.2,precious achiuwa
+Jordan Walsh,BOS,49.9,17.0,12.0,2.4,2.4,1.3,1.5,jordan walsh
 RayJ Dennis,ATL,45.6,17.0,6.1,6.9,0.8,1.1,4.0,rayj dennis
-Marcus Smart,LAL,47.5,16.9,4.5,5.0,2.5,0.6,2.9,marcus smart
-Gary Trent Jr.,MIL,47.6,16.9,2.4,2.8,1.5,0.1,1.2,gary trent jr
-Trayce Jackson-Davis,GSW,46.6,16.9,13.3,3.8,1.3,2.7,2.0,trayce jackson davis
-Precious Achiuwa,SAC,47.1,16.9,12.7,2.6,1.8,1.0,1.0,precious achiuwa
-Jae'Sean Tate,HOU,48.6,16.9,8.5,3.6,1.3,1.0,1.3,jae sean tate
-Taylor Hendricks,UTA,45.5,16.8,9.8,2.0,1.3,0.9,1.1,taylor hendricks
-Andre Drummond,PHI,48.4,16.8,21.4,2.0,1.3,2.1,2.1,andre drummond
-Rudy Gobert,MIN,47.8,16.7,16.6,2.8,0.9,2.5,2.0,rudy gobert
+Nick Richards,PHX,48.3,17.0,17.3,1.5,0.8,2.7,4.8,nick richards
+Ousmane Dieng,OKC,48.9,17.0,6.9,3.4,0.2,1.1,1.4,ousmane dieng
+Luke Kennard,ATL,46.5,17.0,4.4,5.2,1.7,0.1,1.9,luke kennard
+Mohamed Diawara,NYK,44.7,17.0,7.7,4.2,2.4,1.2,2.4,mohamed diawara
+Rudy Gobert,MIN,47.6,17.0,16.9,2.6,0.9,2.5,2.1,rudy gobert
+Svi Mykhailiuk,UTA,46.6,16.9,5.0,3.8,0.9,0.2,1.4,svi mykhailiuk
+Isaiah Collier,UTA,46.2,16.9,4.8,13.2,1.4,0.7,4.7,isaiah collier
+Christian Braun,DEN,48.1,16.9,7.0,4.4,1.1,0.6,1.9,christian braun
+Rob Dillingham,MIN,46.2,16.9,5.5,8.6,2.6,0.5,4.6,rob dillingham
+Jaxson Hayes,LAL,47.5,16.9,11.1,2.4,1.1,1.6,1.5,jaxson hayes
+Gary Trent Jr.,MIL,47.9,16.8,2.5,3.0,1.4,0.1,1.2,gary trent jr
+Jose Alvarado,NOP,47.1,16.8,6.0,6.9,2.1,0.2,2.7,jose alvarado
+Trayce Jackson-Davis,GSW,46.6,16.8,13.9,3.7,1.2,2.4,1.9,trayce jackson davis
+Liam McNeeley,CHA,48.3,16.8,8.6,3.3,0.7,0.4,1.8,liam mcneeley
+Zeke Nnaji,DEN,48.0,16.8,8.3,1.5,1.8,1.8,1.7,zeke nnaji
+Robert Williams III,POR,47.0,16.8,17.9,2.9,1.8,3.7,1.5,robert williams iii
 Tyson Etienne,BKN,47.8,16.7,0.0,1.4,0.0,0.0,1.4,tyson etienne
-Isaiah Collier,UTA,45.6,16.6,4.4,13.1,1.3,0.7,4.8,isaiah collier
-Goga Bitadze,ORL,46.2,16.6,14.2,3.8,1.9,3.6,1.7,goga bitadze
+AJ Green,MIL,47.7,16.7,4.3,3.3,1.1,0.1,1.4,aj green
+Jared McCain,PHI,46.4,16.6,6.1,4.4,2.1,0.1,2.1,jared mccain
+Goga Bitadze,ORL,46.4,16.6,14.4,3.7,2.1,3.3,1.6,goga bitadze
 Blake Wesley,POR,45.0,16.5,6.4,8.7,4.6,0.5,3.2,blake wesley
-Nick Richards,PHX,48.4,16.5,17.4,1.6,0.6,2.7,4.7,nick richards
-Clint Capela,HOU,49.1,16.5,20.6,1.9,1.7,2.9,2.1,clint capela
-Moussa Diabaté,CHA,48.5,16.5,16.9,2.7,1.7,1.9,1.7,moussa diabate
-Herbert Jones,NOP,47.3,16.5,6.2,4.0,2.8,0.5,2.2,herbert jones
-Royce O'Neale,PHX,46.7,16.5,7.9,4.4,2.0,0.3,2.5,royce o neale
-Dru Smith,MIA,44.4,16.4,6.6,7.0,4.0,0.8,2.4,dru smith
+Chris Youngblood,OKC,48.0,16.5,7.7,2.5,1.1,0.0,0.4,chris youngblood
+Vince Williams Jr.,MEM,46.9,16.5,9.2,10.5,1.7,1.1,4.5,vince williams jr
+Devin Carter,SAC,44.5,16.4,6.4,5.9,2.7,0.9,3.7,devin carter
+Taylor Hendricks,UTA,46.0,16.4,9.7,2.3,1.4,0.8,1.7,taylor hendricks
+Dru Smith,MIA,44.5,16.4,6.3,6.6,4.1,0.8,2.4,dru smith
+Sam Hauser,BOS,48.3,16.4,7.5,2.7,1.3,0.7,1.2,sam hauser
 Jahmir Young,MIA,39.9,16.4,3.3,6.6,1.6,0.0,3.3,jahmir young
-Justin Champagnie,WAS,47.3,16.4,15.4,2.6,2.2,1.4,1.0,justin champagnie
+DaRon Holmes II,DEN,50.7,16.4,6.6,6.1,0.0,1.9,1.4,daron holmes ii
 Terrence Shannon Jr.,MIN,46.3,16.4,4.6,2.3,1.1,0.2,2.5,terrence shannon jr
-Luke Kennard,ATL,46.7,16.3,4.7,5.3,1.7,0.1,2.1,luke kennard
-Ja'Kobe Walter,TOR,47.6,16.3,5.6,2.3,2.6,0.3,1.6,ja kobe walter
+Drake Powell,BKN,49.2,16.4,4.3,4.5,1.7,0.4,2.8,drake powell
 Brandon Clarke,MEM,41.7,16.3,12.2,2.0,4.1,0.0,0.0,brandon clarke
-Jordan Hawkins,NOP,47.0,16.3,5.5,2.7,0.4,0.4,1.7,jordan hawkins
-Jake LaRavia,LAL,47.5,16.3,7.7,3.6,2.5,0.8,2.0,jake laravia
-Javonte Green,DET,46.1,16.3,6.8,2.1,3.1,0.9,1.6,javonte green
-Bub Carrington,WAS,46.2,16.2,6.6,7.4,0.7,0.3,3.7,bub carrington
-Drake Powell,BKN,48.8,16.1,4.7,5.1,2.0,0.4,2.9,drake powell
-Patrick Williams,CHI,45.4,16.1,7.0,3.0,1.9,0.7,2.2,patrick williams
-Sam Hauser,BOS,48.1,16.1,7.8,2.8,1.2,0.7,1.3,sam hauser
-Keshad Johnson,MIA,43.9,16.0,11.1,0.3,1.7,1.4,1.0,keshad johnson
-Jeremy Sochan,SAS,47.5,16.0,10.0,4.0,1.5,0.6,2.6,jeremy sochan
+Royce O'Neale,PHX,46.8,16.3,8.0,4.5,2.0,0.5,2.4,royce o neale
+Moussa Diabaté,CHA,48.6,16.3,17.1,2.9,1.7,1.9,1.7,moussa diabate
+Patrick Williams,CHI,45.7,16.3,7.1,2.8,1.9,0.7,2.3,patrick williams
+Bub Carrington,WAS,46.2,16.1,6.5,7.5,0.8,0.4,3.8,bub carrington
+Al Horford,GSW,46.7,16.1,11.5,4.3,2.0,2.4,2.4,al horford
+Chaz Lanier,DET,46.5,16.1,4.5,3.6,1.5,0.0,0.3,chaz lanier
+Gui Santos,GSW,47.8,16.1,10.8,3.5,1.7,0.6,3.8,gui santos
+Dominick Barlow,PHI,47.4,16.1,9.7,3.0,1.6,1.4,1.9,dominick barlow
+Clint Capela,HOU,49.2,16.0,19.5,2.2,2.3,2.9,2.1,clint capela
+Isaac Okoro,CHI,46.7,16.0,5.1,2.5,1.0,1.0,1.3,isaac okoro
+Herbert Jones,NOP,47.3,15.9,6.1,3.8,2.8,0.5,2.2,herbert jones
+Jeremy Sochan,SAS,47.6,15.9,10.1,4.0,1.4,0.6,2.6,jeremy sochan
+Dyson Daniels,ATL,46.3,15.9,8.8,8.2,2.6,0.6,3.0,dyson daniels
+Kevin McCullar Jr.,NYK,47.9,15.9,11.4,8.0,2.3,0.0,4.5,kevin mccullar jr
+Marcus Smart,LAL,47.3,15.8,5.1,5.1,2.4,0.6,3.2,marcus smart
+Ja'Kobe Walter,TOR,47.5,15.8,5.5,2.3,2.4,0.4,1.5,ja kobe walter
 Ryan Kalkbrenner,CHA,46.6,15.8,11.7,1.1,1.3,3.3,2.1,ryan kalkbrenner
-Vince Williams Jr.,MEM,47.0,15.8,9.1,10.5,1.8,1.2,4.6,vince williams jr
-Dyson Daniels,ATL,46.4,15.7,8.9,8.0,2.7,0.6,3.1,dyson daniels
-Dominick Barlow,PHI,47.2,15.7,9.9,3.2,1.7,1.5,1.9,dominick barlow
-Kobe Sanders,LAC,48.0,15.6,5.2,3.5,1.6,0.3,3.2,kobe sanders
-Alex Caruso,OKC,46.2,15.6,7.7,5.1,3.9,0.9,2.3,alex caruso
-Kobe Brown,LAC,49.1,15.4,8.6,4.4,1.5,0.4,2.1,kobe brown
+Doug McDermott,SAC,45.9,15.7,3.3,1.3,0.0,0.7,2.0,doug mcdermott
+Kobe Brown,LAC,49.2,15.7,8.5,4.5,1.4,0.4,2.2,kobe brown
+Kobe Sanders,LAC,48.2,15.6,5.5,3.8,1.5,0.3,3.5,kobe sanders
+Luke Kornet,SAS,46.2,15.6,12.5,3.9,0.7,2.6,1.0,luke kornet
+Guerschon Yabusele,NYK,47.2,15.5,10.5,2.2,0.4,0.6,2.1,guerschon yabusele
+Javon Small,MEM,45.3,15.5,5.2,11.9,1.0,0.5,4.6,javon small
 Ben Saraf,BKN,48.1,15.4,4.5,8.1,1.9,0.7,5.5,ben saraf
-Josh Okogie,HOU,49.6,15.3,6.7,2.3,2.6,0.5,2.0,josh okogie
-Justin Edwards,PHI,46.4,15.3,5.1,3.7,2.1,0.7,2.2,justin edwards
-Kris Dunn,LAC,49.1,15.2,5.4,5.3,2.9,0.3,2.3,kris dunn
-Jamal Shead,TOR,47.4,15.1,4.2,12.3,2.3,0.3,3.1,jamal shead
-Guerschon Yabusele,NYK,47.1,15.1,10.3,2.1,0.5,0.7,2.1,guerschon yabusele
-Luke Kornet,SAS,46.1,15.1,12.7,3.8,0.7,2.6,1.0,luke kornet
-Ryan Dunn,PHX,47.9,15.1,10.6,3.9,2.6,1.3,2.4,ryan dunn
-Mouhamed Gueye,ATL,46.7,15.0,10.2,2.6,1.8,1.9,1.7,mouhamed gueye
-Chaz Lanier,DET,45.5,15.0,4.7,3.3,1.3,0.0,0.3,chaz lanier
-Micah Potter,IND,45.4,15.0,7.5,6.8,0.0,1.4,1.4,micah potter
-Al Horford,GSW,46.8,14.9,10.2,4.1,2.2,2.2,2.3,al horford
-Jabari Walker,PHI,46.9,14.9,12.5,1.8,0.6,1.1,1.8,jabari walker
-Keaton Wallace,ATL,47.4,14.9,4.9,9.0,2.2,0.5,2.7,keaton wallace
-Lindy Waters III,SAS,45.8,14.8,6.2,2.1,1.6,0.0,0.4,lindy waters iii
-Kasparas Jakučionis,MIA,45.2,14.8,5.8,2.9,2.2,0.0,1.8,kasparas jakucionis
+Keaton Wallace,ATL,47.1,15.4,5.0,8.6,2.2,0.5,2.6,keaton wallace
+Keshad Johnson,MIA,43.5,15.3,11.3,0.3,1.7,1.3,2.0,keshad johnson
+Jamal Shead,TOR,47.4,15.2,4.1,12.4,2.3,0.3,3.0,jamal shead
+Alex Caruso,OKC,46.4,15.2,7.4,5.2,3.7,0.9,2.1,alex caruso
+Kris Dunn,LAC,49.4,15.1,5.4,5.5,2.6,0.3,2.4,kris dunn
+Justin Edwards,PHI,46.4,15.1,5.0,3.7,2.0,0.7,2.1,justin edwards
+Jabari Walker,PHI,46.7,14.9,12.3,1.7,0.7,1.1,1.7,jabari walker
+Jordan Hawkins,NOP,47.0,14.9,5.2,2.5,0.4,0.7,2.1,jordan hawkins
+Terance Mann,BKN,48.7,14.9,6.5,7.0,1.4,0.6,2.0,terance mann
+Draymond Green,GSW,46.8,14.9,10.0,9.4,1.6,1.3,4.9,draymond green
+Keon Ellis,SAC,46.8,14.8,3.7,1.6,3.2,1.3,1.4,keon ellis
+Josh Okogie,HOU,49.7,14.8,6.9,2.4,2.4,0.4,2.0,josh okogie
 Xavier Tillman,BOS,49.4,14.8,11.5,2.4,2.9,1.0,1.9,xavier tillman
-Chris Youngblood,OKC,47.8,14.7,7.8,2.3,0.4,0.0,0.4,chris youngblood
-Draymond Green,GSW,46.8,14.7,10.3,9.0,1.5,1.4,5.2,draymond green
-Terance Mann,BKN,48.7,14.6,6.5,6.9,1.4,0.5,2.0,terance mann
-Jaylen Clark,MIN,46.9,14.6,6.4,1.6,2.6,0.5,1.3,jaylen clark
-Nique Clifford,SAC,46.8,14.5,7.5,3.5,1.5,0.7,2.7,nique clifford
-Joan Beringer,MIN,42.6,14.5,13.7,0.0,0.8,4.0,2.4,joan beringer
-Johnny Furphy,IND,46.6,14.5,8.5,1.0,1.6,0.0,1.6,johnny furphy
-Bruce Brown,DEN,47.7,14.4,8.2,4.1,1.8,0.5,2.1,bruce brown
-Hugo González,BOS,48.9,14.4,10.5,2.1,2.6,0.9,2.3,hugo gonzalez
-Orlando Robinson,ORL,50.6,14.3,8.2,6.1,2.0,0.0,0.0,orlando robinson
-Micah Peavy,NOP,46.9,14.3,6.9,2.9,1.7,0.2,1.1,micah peavy
-Davion Mitchell,MIA,46.1,14.3,3.9,11.4,1.9,0.1,2.4,davion mitchell
-Myron Gardner,MIA,41.4,14.3,10.4,2.6,1.3,0.0,0.0,myron gardner
+Ryan Dunn,PHX,48.3,14.8,10.4,3.8,2.3,1.2,2.5,ryan dunn
+Lindy Waters III,SAS,45.7,14.8,6.2,2.1,1.4,0.0,0.3,lindy waters iii
+Jaylen Clark,MIN,46.7,14.7,6.3,1.7,2.7,0.6,1.1,jaylen clark
+Johnny Furphy,IND,46.5,14.5,9.7,1.5,1.6,0.0,1.6,johnny furphy
+Mouhamed Gueye,ATL,46.6,14.4,10.6,2.9,2.1,1.9,1.9,mouhamed gueye
 Bobi Klintman,DET,44.4,14.3,13.4,3.4,1.7,0.0,4.2,bobi klintman
-JD Davison,HOU,50.8,14.3,2.9,8.0,2.3,1.1,2.9,jd davison
-Keon Ellis,SAC,46.8,14.2,3.6,1.8,3.3,1.3,1.3,keon ellis
-Javon Small,MEM,44.2,14.1,4.7,11.6,0.4,0.4,3.6,javon small
-Yang Hansen,POR,45.0,14.1,10.6,4.2,0.3,1.9,4.5,yang hansen
-Luguentz Dort,OKC,47.1,14.0,6.0,1.9,1.4,1.0,1.2,luguentz dort
+Luguentz Dort,OKC,47.0,14.3,6.3,1.7,1.5,1.1,1.1,luguentz dort
+Orlando Robinson,ORL,50.6,14.3,8.2,6.1,2.0,0.0,0.0,orlando robinson
+Bruce Brown,DEN,48.0,14.1,8.1,4.1,2.0,0.4,2.1,bruce brown
+Davion Mitchell,MIA,45.8,14.1,3.8,11.4,1.9,0.2,2.6,davion mitchell
+Micah Peavy,NOP,47.1,14.1,6.8,3.4,1.9,0.5,1.0,micah peavy
+Yang Hansen,POR,45.3,14.1,10.1,4.2,0.3,2.1,4.5,yang hansen
+JD Davison,HOU,50.8,14.0,3.4,8.4,2.2,1.1,2.8,jd davison
+Nique Clifford,SAC,47.0,13.9,7.2,3.4,1.6,0.7,2.8,nique clifford
 Jaylin Williams,OKC,46.6,13.9,12.0,6.2,1.7,1.2,2.5,jaylin williams
-Curtis Jones,DEN,46.8,13.8,10.3,3.4,0.0,0.0,3.4,curtis jones
-Yves Missi,NOP,47.0,13.8,14.1,2.8,0.9,3.2,2.4,yves missi
-Spencer Jones,DEN,47.6,13.7,6.2,2.3,2.1,0.8,1.6,spencer jones
-Craig Porter Jr.,CLE,46.5,13.7,9.5,7.1,2.7,1.6,2.0,craig porter jr
-Carter Bryant,SAS,46.5,13.7,9.8,1.0,1.0,0.5,2.2,carter bryant
-Jahmai Mashack,MEM,47.4,13.6,11.4,4.5,2.3,0.0,6.8,jahmai mashack
-Jalen Pickett,DEN,46.5,13.6,6.5,6.5,0.6,0.6,2.4,jalen pickett
+Josh Green,CHA,48.1,13.9,5.3,3.1,1.9,0.0,1.2,josh green
+Yves Missi,NOP,47.0,13.9,13.6,3.0,0.9,3.1,2.2,yves missi
+Kasparas Jakučionis,MIA,44.7,13.8,6.1,3.2,2.1,0.0,1.9,kasparas jakucionis
+Jonathan Isaac,ORL,47.1,13.7,13.0,1.0,1.8,2.4,1.4,jonathan isaac
+Hugo González,BOS,49.0,13.7,10.9,2.0,2.3,1.0,2.1,hugo gonzalez
+Julian Phillips,CHI,46.0,13.7,6.3,1.2,2.5,1.0,1.0,julian phillips
 Moussa Cisse,DAL,46.1,13.6,15.9,0.7,1.2,4.6,3.2,moussa cisse
-Cason Wallace,OKC,46.8,13.6,5.2,4.0,3.6,0.4,1.5,cason wallace
+Sidy Cissoko,POR,46.7,13.6,5.0,3.5,1.5,0.6,2.5,sidy cissoko
+Khaman Maluach,PHX,46.1,13.5,9.9,1.8,0.6,4.1,4.7,khaman maluach
+Craig Porter Jr.,CLE,46.5,13.5,9.9,7.4,2.9,1.8,2.3,craig porter jr
 Isaac Jones,DET,49.3,13.5,5.4,2.7,0.0,0.0,0.0,isaac jones
-Steven Adams,HOU,48.7,13.4,19.0,3.1,1.5,1.3,2.4,steven adams
-Ochai Agbaji,TOR,47.9,13.3,6.9,2.4,1.4,0.6,0.8,ochai agbaji
-Sidy Cissoko,POR,46.4,13.3,5.0,3.4,1.3,0.5,2.7,sidy cissoko
-Ethan Thompson,IND,48.9,13.3,5.2,4.4,1.4,0.8,1.7,ethan thompson
-Taurean Prince,MIL,45.8,13.3,3.5,2.2,1.6,0.5,1.4,taurean prince
+Spencer Jones,DEN,48.2,13.5,6.2,2.1,2.1,0.9,1.5,spencer jones
+Nolan Traore,BKN,48.6,13.4,3.6,6.6,1.6,1.1,3.6,nolan traore
 Colby Jones,DET,45.4,13.3,26.7,13.3,0.0,0.0,0.0,colby jones
-Jonathan Isaac,ORL,47.2,13.2,13.1,0.6,1.9,2.3,1.6,jonathan isaac
-Khaman Maluach,PHX,46.7,12.8,9.4,1.3,0.0,4.0,4.7,khaman maluach
-Julian Phillips,CHI,45.4,12.8,6.2,1.4,2.0,1.0,0.6,julian phillips
-Taelon Peter,IND,46.7,12.7,7.3,5.4,1.2,0.8,3.5,taelon peter
-Ben Sheppard,IND,46.2,12.6,7.4,3.5,1.1,0.2,1.2,ben sheppard
-Jarred Vanderbilt,LAL,48.1,12.6,13.7,3.2,2.3,0.8,3.4,jarred vanderbilt
-Nolan Traore,BKN,47.2,12.6,3.4,6.1,1.5,0.8,3.4,nolan traore
+Taurean Prince,MIL,45.8,13.3,3.5,2.2,1.6,0.5,1.4,taurean prince
+Steven Adams,HOU,48.8,13.3,18.8,3.3,1.6,1.3,2.5,steven adams
+Cody Williams,UTA,46.0,13.2,4.7,1.9,0.9,0.9,1.0,cody williams
+Oso Ighodaro,PHX,48.3,13.2,11.3,4.4,2.1,1.3,3.0,oso ighodaro
+Carter Bryant,SAS,46.6,13.1,9.5,1.1,0.8,0.4,2.1,carter bryant
+Ethan Thompson,IND,48.4,13.1,5.2,4.2,1.5,0.7,1.7,ethan thompson
+Ben Sheppard,IND,46.1,13.0,7.2,3.5,1.2,0.2,1.2,ben sheppard
+Cason Wallace,OKC,46.7,12.9,5.3,3.7,3.7,0.4,1.6,cason wallace
+Ochai Agbaji,TOR,47.9,12.9,7.1,2.4,1.4,0.6,1.0,ochai agbaji
+Taelon Peter,IND,46.6,12.6,7.3,5.3,1.1,0.8,3.4,taelon peter
+Jarred Vanderbilt,LAL,47.9,12.5,12.9,3.4,2.2,0.8,3.4,jarred vanderbilt
+Mike Conley,MIN,46.5,12.5,4.4,7.6,1.6,0.5,1.5,mike conley
 Monte Morris,IND,44.9,12.5,4.9,6.3,0.7,0.7,1.4,monte morris
 Luke Travers,CLE,45.6,12.4,10.6,4.0,3.1,1.8,1.3,luke travers
-Hunter Tyson,DEN,43.8,12.4,13.3,2.7,0.9,0.0,0.0,hunter tyson
-Sion James,CHA,47.7,12.3,5.9,3.0,1.2,0.8,1.5,sion james
-Oso Ighodaro,PHX,47.9,12.3,10.9,4.5,2.0,1.3,3.0,oso ighodaro
 Hunter Sallis,PHI,45.0,12.3,1.8,7.0,0.0,1.8,8.8,hunter sallis
 Jeremiah Robinson-Earl,IND,46.2,12.2,13.6,1.8,1.1,0.2,1.5,jeremiah robinson earl
-Mike Conley,MIN,46.6,12.2,4.4,7.4,1.6,0.6,1.4,mike conley
+Sion James,CHA,47.9,12.2,6.2,3.4,1.2,0.8,1.6,sion james
 Elijah Harkless,UTA,46.7,12.1,4.3,3.5,2.8,0.0,2.1,elijah harkless
 Jamir Watkins,WAS,47.4,12.0,10.0,1.8,1.2,0.9,1.5,jamir watkins
-Dalen Terry,CHI,45.7,12.0,7.3,5.4,2.8,1.2,2.8,dalen terry
-Zeke Nnaji,DEN,46.8,11.9,7.8,1.4,1.2,1.2,2.0,zeke nnaji
-Dean Wade,CLE,46.4,11.8,8.3,3.3,1.5,0.8,0.5,dean wade
-Mitchell Robinson,NYK,47.9,11.8,22.7,2.8,2.2,3.0,2.0,mitchell robinson
+Dean Wade,CLE,46.4,11.9,8.3,3.3,1.4,0.8,0.5,dean wade
+Nicolas Batum,LAC,48.7,11.7,6.1,1.9,2.0,1.0,1.5,nicolas batum
 Dereck Lively II,DAL,45.0,11.7,14.5,5.1,1.6,4.3,3.9,dereck lively ii
 Johni Broome,PHI,46.2,11.6,15.1,4.7,2.3,0.0,2.3,johni broome
-Baylor Scheierman,BOS,49.2,11.3,7.2,2.8,1.8,0.3,1.6,baylor scheierman
-Adou Thiero,LAL,48.2,11.1,10.0,2.8,2.8,0.6,2.2,adou thiero
-Nicolas Batum,LAC,48.7,11.1,6.3,1.8,2.0,1.0,1.5,nicolas batum
+Baylor Scheierman,BOS,49.2,11.5,6.9,2.8,1.7,0.3,1.7,baylor scheierman
+Dalen Terry,CHI,45.8,11.4,6.8,5.0,2.5,1.2,2.5,dalen terry
+Jahmai Mashack,MEM,46.8,11.3,9.4,3.8,1.9,0.0,5.7,jahmai mashack
 Larry Nance Jr.,CLE,46.8,11.1,8.8,3.9,1.8,0.8,1.8,larry nance jr
-Adem Bona,PHI,47.0,11.0,10.6,0.7,1.0,4.3,1.9,adem bona
+AJ Johnson,WAS,46.9,11.1,5.4,5.0,1.1,0.0,2.7,aj johnson
+Adem Bona,PHI,47.2,11.1,11.0,0.8,0.9,3.9,1.8,adem bona
+Adou Thiero,LAL,48.2,11.1,10.0,2.8,2.8,0.6,2.2,adou thiero
+Mitchell Robinson,NYK,48.2,11.0,22.0,2.8,2.1,2.8,1.8,mitchell robinson
+Kris Murray,POR,46.4,11.0,7.2,2.2,2.1,0.7,1.6,kris murray
 John Konchar,MEM,46.4,10.9,9.6,4.4,3.1,1.1,1.1,john konchar
-Kris Murray,POR,46.3,10.8,7.3,2.1,2.0,0.6,1.7,kris murray
+Dylan Cardwell,SAC,47.0,10.7,14.8,2.5,2.5,4.6,2.2,dylan cardwell
+Gabe Vincent,LAL,47.4,10.7,2.1,3.3,1.0,0.1,0.9,gabe vincent
 Andre Jackson Jr.,MIL,46.9,10.6,5.8,8.2,2.4,1.0,2.9,andre jackson jr
-AJ Johnson,WAS,48.6,10.4,4.9,4.9,0.7,0.0,3.5,aj johnson
-Gabe Vincent,LAL,47.4,10.4,1.9,3.2,1.1,0.2,0.9,gabe vincent
 Charles Bassey,MEM,44.9,10.3,22.1,2.9,1.5,1.5,1.5,charles bassey
-Dylan Cardwell,SAC,47.3,10.3,13.2,2.3,2.6,4.7,2.1,dylan cardwell
+Jericho Sims,MIL,48.4,10.3,12.6,2.1,0.7,0.6,3.5,jericho sims
+Lonzo Ball,CLE,45.5,10.2,8.3,8.9,2.7,0.6,3.2,lonzo ball
 James Wiseman,IND,46.0,10.2,6.3,2.4,0.0,0.8,3.9,james wiseman
-Jericho Sims,MIL,48.5,10.2,12.7,2.1,0.7,0.6,3.4,jericho sims
-Lonzo Ball,CLE,45.6,10.2,8.2,8.9,2.7,0.5,3.2,lonzo ball
-Rayan Rupert,POR,46.5,10.2,8.0,2.4,1.3,0.4,1.8,rayan rupert
-Tyus Jones,ORL,47.6,10.1,3.4,7.1,2.1,0.2,0.9,tyus jones
-Cody Williams,UTA,45.3,10.1,4.5,2.2,0.7,0.6,1.3,cody williams
 Chris Paul,LAC,48.8,10.1,6.0,11.4,2.4,0.0,3.4,chris paul
 Javonte Cooke,POR,43.8,10.0,4.3,7.1,1.4,0.0,5.7,javonte cooke
-Mason Plumlee,CHA,47.3,9.9,15.2,6.1,2.3,0.0,3.4,mason plumlee
-Dwight Powell,DAL,45.5,9.9,10.5,3.3,1.7,1.2,1.6,dwight powell
 Chris Boucher,BOS,49.8,9.9,9.9,1.6,2.7,3.8,0.5,chris boucher
-Trey Jemison III,NYK,45.6,9.6,12.3,1.4,0.0,1.4,4.1,trey jemison iii
+Dwight Powell,DAL,45.5,9.9,10.5,3.3,1.7,1.2,1.6,dwight powell
+Rayan Rupert,POR,46.8,9.9,7.6,2.5,1.3,0.3,1.5,rayan rupert
+Mason Plumlee,CHA,47.3,9.9,15.2,6.1,2.3,0.0,3.4,mason plumlee
+Tyus Jones,ORL,47.7,9.5,3.3,7.3,2.1,0.2,0.8,tyus jones
 Jonathan Mogbo,TOR,44.8,9.4,10.9,4.3,1.4,2.2,0.7,jonathan mogbo
-Bronny James,LAL,47.4,9.4,3.2,7.7,2.9,0.3,3.9,bronny james
-Dorian Finney-Smith,HOU,46.9,9.3,5.2,2.1,1.0,1.0,1.0,dorian finney smith
-Gary Harris,MIL,48.5,9.3,4.6,3.2,2.0,0.5,1.5,gary harris
+Bronny James,LAL,47.4,9.3,3.2,7.7,2.9,0.3,3.8,bronny james
 N'Faly Dante,ATL,46.7,9.1,21.2,0.0,6.1,0.0,3.0,n faly dante
-Isaiah Livers,PHX,46.7,8.9,8.9,2.8,1.8,1.5,1.8,isaiah livers
 Brooks Barnhizer,OKC,47.1,8.9,11.1,2.8,0.9,0.6,0.9,brooks barnhizer
 Amir Coffey,MIL,46.9,8.9,4.4,2.2,0.0,0.3,0.6,amir coffey
-Drew Timme,LAL,47.9,8.7,13.0,13.0,4.3,0.0,4.3,drew timme
-Kevon Looney,NOP,46.8,8.6,15.7,5.5,1.0,1.7,1.4,kevon looney
-Nigel Hayes-Davis,PHX,47.9,8.5,7.7,1.9,1.9,0.3,1.9,nigel hayes davis
-Ariel Hukporti,NYK,46.8,7.5,12.8,2.9,1.0,2.7,2.9,ariel hukporti
-Caleb Martin,DAL,44.8,7.5,7.1,4.9,2.0,0.7,1.9,caleb martin
-Maxi Kleber,LAL,48.2,7.3,6.8,2.8,1.0,1.3,1.8,maxi kleber
+Kevon Looney,NOP,47.3,8.8,16.7,5.2,1.3,1.7,1.7,kevon looney
+Isaiah Livers,PHX,46.6,8.7,8.7,3.0,1.8,1.4,2.1,isaiah livers
+Gary Harris,MIL,48.8,8.6,4.7,3.3,2.0,0.6,1.4,gary harris
+Curtis Jones,DEN,46.7,8.5,8.5,2.1,0.0,0.0,2.1,curtis jones
+Trey Jemison III,NYK,46.2,8.5,12.2,1.2,0.0,2.4,3.7,trey jemison iii
+Nigel Hayes-Davis,PHX,47.8,8.4,7.6,1.9,1.9,0.3,1.9,nigel hayes davis
+Dorian Finney-Smith,HOU,48.7,8.3,9.3,1.9,0.9,0.5,2.8,dorian finney smith
+Ariel Hukporti,NYK,46.9,8.1,14.0,3.4,1.0,3.0,2.8,ariel hukporti
+Drew Timme,LAL,47.5,8.0,12.0,12.0,4.0,0.0,4.0,drew timme
+Caleb Martin,DAL,45.2,7.4,6.7,4.9,2.0,0.6,1.9,caleb martin
+Maxi Kleber,LAL,48.3,7.1,7.1,2.6,1.2,1.2,1.7,maxi kleber
 Garrett Temple,TOR,47.9,7.0,7.0,5.3,5.3,1.8,5.3,garrett temple
 Daeqwon Plowden,SAC,48.3,6.9,6.9,0.0,0.0,0.0,0.0,daeqwon plowden
 Wendell Moore Jr.,DET,47.8,6.7,4.4,3.3,2.2,1.1,1.1,wendell moore jr
-Bismack Biyombo,SAS,46.9,6.6,5.1,2.2,2.2,0.7,2.2,bismack biyombo
+Christian Koloko,MEM,45.8,6.7,8.8,2.1,2.7,2.7,1.1,christian koloko
+Bismack Biyombo,SAS,47.1,6.6,5.1,2.2,2.2,0.7,2.2,bismack biyombo
+Oscar Tshiebwe,UTA,47.7,6.5,19.4,3.2,3.2,0.0,0.0,oscar tshiebwe
 Miles Kelly,DAL,36.3,6.5,12.9,0.0,0.0,0.0,3.2,miles kelly
 Kyle Lowry,PHI,44.4,6.3,3.1,7.3,1.0,0.0,2.1,kyle lowry
+Pacôme Dadiet,NYK,45.2,6.1,11.2,6.1,2.0,0.0,0.0,pacome dadiet
 Cody Martin,IND,46.4,5.9,11.8,1.7,3.4,1.7,3.4,cody martin
 Dario Šarić,SAC,48.5,5.9,7.1,2.4,0.0,0.0,2.4,dario saric
-Pacôme Dadiet,NYK,45.1,5.0,8.8,5.0,1.3,0.0,0.0,pacome dadiet
-Christian Koloko,MEM,45.8,4.6,8.8,2.3,2.8,2.8,0.0,christian koloko
 Amari Williams,BOS,46.9,4.5,10.6,1.5,1.5,3.0,0.0,amari williams
 Drew Peterson,CHA,49.1,3.8,6.9,1.5,2.3,0.8,0.0,drew peterson
-Lachlan Olbrich,CHI,47.3,2.6,14.5,3.9,0.0,0.0,2.6,lachlan olbrich
+Lachlan Olbrich,CHI,49.6,3.1,14.1,4.7,0.0,0.0,3.1,lachlan olbrich
+Joe Ingles,MIN,39.4,2.0,3.0,6.9,3.0,0.0,2.0,joe ingles
 Jahmyl Telfort,LAC,47.8,1.5,4.5,1.5,1.5,0.0,1.5,jahmyl telfort
-Noa Essengue,CHI,40.2,0.0,0.0,0.0,6.7,0.0,0.0,noa essengue
-Chris Mañon,LAL,49.2,0.0,11.5,0.0,3.8,7.7,0.0,chris manon
-Alijah Martin,TOR,59.1,0.0,0.0,0.0,9.1,0.0,0.0,alijah martin
-Joe Ingles,MIN,39.9,0.0,0.0,9.0,1.5,0.0,1.5,joe ingles
+Mo Bamba,TOR,41.8,0.0,14.3,0.0,0.0,7.1,0.0,mo bamba
 Chucky Hepburn,TOR,50.9,0.0,3.8,7.7,3.8,0.0,3.8,chucky hepburn
-Mo Bamba,TOR,43.0,0.0,0.0,0.0,0.0,10.0,0.0,mo bamba
+Alijah Martin,TOR,56.3,0.0,0.0,0.0,7.1,0.0,0.0,alijah martin
 Vladislav Goldin,MIA,45.6,0.0,0.0,50.0,0.0,0.0,0.0,vladislav goldin
-Tosan Evbuomwan,NYK,42.9,0.0,11.1,0.0,0.0,0.0,0.0,tosan evbuomwan
+Chris Mañon,LAL,48.8,0.0,10.7,0.0,3.6,7.1,0.0,chris manon
 Isaiah Crawford,HOU,51.3,0.0,0.0,0.0,0.0,0.0,0.0,isaiah crawford
+Noa Essengue,CHI,40.2,0.0,0.0,0.0,6.7,0.0,0.0,noa essengue
 Sharife Cooper,WAS,55.0,0.0,0.0,0.0,0.0,0.0,5.6,sharife cooper
+Tosan Evbuomwan,NYK,42.9,0.0,11.1,0.0,0.0,0.0,0.0,tosan evbuomwan

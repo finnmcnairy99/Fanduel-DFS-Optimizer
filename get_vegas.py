@@ -1,19 +1,12 @@
 import csv
-import requests
+import os
 from pathlib import Path
 
-# ================== PASTE KEY HERE ==================
-import os
+import requests
 
-ODDS_API_KEY = os.getenv("ODDS_API_KEY")
-
-if not ODDS_API_KEY:
-    raise RuntimeError(
-        "Missing ODDS_API_KEY. Set it as an environment variable or in a .env file."
-    )
-
-# ===================================================
-
+# -------------------------
+# Config
+# -------------------------
 DATA_DIR = Path("data")
 OUT_PATH = DATA_DIR / "vegas.csv"
 
@@ -32,29 +25,54 @@ PREFERRED_BOOKS = [
     "PointsBet",
 ]
 
+# -------------------------
+# API Key (env var)
+# -------------------------
+ODDS_API_KEY = os.getenv("ODDS_API_KEY")
+if not ODDS_API_KEY:
+    raise RuntimeError(
+        "ODDS_API_KEY not set. Add this to ~/.zshrc:\n"
+        '  export ODDS_API_KEY="YOUR_KEY"\n'
+        "Then run:\n"
+        "  source ~/.zshrc"
+    )
+
 
 def pick_bookmaker(bookmakers):
+    """
+    Pick first available preferred bookmaker (by title), else fallback to first bookmaker.
+    """
     if not bookmakers:
         return None
+
     for name in PREFERRED_BOOKS:
         for b in bookmakers:
             if b.get("title") == name:
                 return b
+
     return bookmakers[0]
 
 
 def extract_total_and_spread(event, book):
+    """
+    Return (total, spread_home) for the selected bookmaker.
+    total: game total points line (float or None)
+    spread_home: home team spread (float or None)
+    """
     home = event.get("home_team")
     total = None
     spread_home = None
 
     for market in book.get("markets", []):
-        if market.get("key") == "totals":
+        key = market.get("key")
+
+        if key == "totals":
             outcomes = market.get("outcomes", [])
             if outcomes:
+                # totals market usually has Over/Under outcomes with same point
                 total = outcomes[0].get("point")
 
-        elif market.get("key") == "spreads":
+        elif key == "spreads":
             for o in market.get("outcomes", []):
                 if o.get("name") == home:
                     spread_home = o.get("point")
@@ -73,9 +91,6 @@ def extract_total_and_spread(event, book):
 
 
 def main():
-    if not ODDS_API_KEY or ODDS_API_KEY == "PASTE_KEY_HERE":
-        raise RuntimeError("Paste your Odds API key at the top of get_vegas.py")
-
     params = {
         "apiKey": ODDS_API_KEY,
         "regions": REGIONS,
@@ -85,22 +100,23 @@ def main():
 
     r = requests.get(BASE_URL, params=params, timeout=30)
     r.raise_for_status()
-
     events = r.json()
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
     with OUT_PATH.open("w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
-        writer.writerow([
-            "game_id",
-            "home",
-            "away",
-            "commence_time_utc",
-            "book",
-            "total",
-            "spread_home",
-        ])
+        writer.writerow(
+            [
+                "game_id",
+                "home",
+                "away",
+                "commence_time_utc",
+                "book",
+                "total",
+                "spread_home",
+            ]
+        )
 
         for e in events:
             home = e.get("home_team")
@@ -114,15 +130,17 @@ def main():
             total, spread_home = extract_total_and_spread(e, book)
             game_id = f"{away}@{home}"
 
-            writer.writerow([
-                game_id,
-                home,
-                away,
-                commence,
-                book.get("title"),
-                total,
-                spread_home,
-            ])
+            writer.writerow(
+                [
+                    game_id,
+                    home,
+                    away,
+                    commence,
+                    book.get("title"),
+                    total,
+                    spread_home,
+                ]
+            )
 
     print(f"✅ wrote {OUT_PATH}")
 

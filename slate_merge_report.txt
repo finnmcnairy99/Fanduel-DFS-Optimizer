@@ -1,132 +1,167 @@
-TARGET_DATES=2026-01-01,2026-01-02
-vegas games (all target dates): 5
+TARGET_DATES=2026-01-09
+vegas games (all target dates): 4
 vegas allowed game_abbr:
-BOS @ SAC, HOU @ BKN, MIA @ DET, PHI @ DAL, UTA @ LAC
+CLE @ MIN, DAL @ UTA, IND @ CHA, MIA @ CHI
 
-DAILY rows: 131
+DAILY rows: 140
 DAILY unmapped gameInfo rows: 0
 
-DAILY rows after vegas game filter: 131 (dropped 0)
-matched games: 4 / 5
+DAILY rows after vegas game filter: 140 (dropped 0)
+matched games: 4 / 4
 matched game_abbr:
-BOS @ SAC, HOU @ BKN, MIA @ DET, PHI @ DAL
+CLE @ MIN, DAL @ UTA, IND @ CHA, MIA @ CHI
 
 === points.csv ===
 Loaded team tables: 8 / 8
 Added columns: 29
-Missing matches (rows with ALL points_* NaN): 17 / 131
+Missing matches (rows with ALL points_* NaN): 24 / 140
 Sample missing (first 40):
-            player team_key
-       Kelly Oubre      PHI
-  Dennis Smith Jr.      DAL
-     Dalano Banton      DAL
-     Tobias Harris      DET
-      Caris LeVert      DET
-       Tyler Herro      MIA
-       Colby Jones      DET
-    Ron Holland II      DET
-     Pelle Larsson      MIA
-Michael Porter Jr.      BKN
-        Tari Eason      HOU
-      Kevon Harris      HOU
-       Kobe Bufkin      BKN
-       Zach LaVine      SAC
-  Domantas Sabonis      SAC
-   Daeqwon Plowden      SAC
-    Isaiah Stevens      SAC
+               player team_key
+         Jusuf Nurkic      UTA
+        Georges Niang      UTA
+     Dennis Smith Jr.      DAL
+Sviatoslav Mykhailiuk      UTA
+      P.J. Washington      DAL
+        Dalano Banton      DAL
+           Ace Bailey      UTA
+    Spencer Dinwiddie      CHA
+         Delon Wright      IND
+       Grant Williams      CHA
+       Isaiah Jackson      IND
+   Bennedict Mathurin      IND
+      Andrew Nembhard      IND
+     Ryan Kalkbrenner      CHA
+           Kevin Knox      CHI
+          Jalen Smith      CHI
+          Josh Giddey      CHI
+        Yuki Kawamura      CHI
+         Noa Essengue      CHI
+       Darius Garland      CLE
+            Dean Wade      CLE
+            Max Strus      CLE
+      Anthony Edwards      MIN
+        Jesse Edwards      MIN
 
 === assists.csv ===
 Loaded team tables: 8 / 8
 Added columns: 10
-Missing matches (rows with ALL assists_* NaN): 17 / 131
+Missing matches (rows with ALL assists_* NaN): 24 / 140
 Sample missing (first 40):
-            player team_key
-       Kelly Oubre      PHI
-  Dennis Smith Jr.      DAL
-     Dalano Banton      DAL
-     Tobias Harris      DET
-      Caris LeVert      DET
-       Tyler Herro      MIA
-       Colby Jones      DET
-    Ron Holland II      DET
-     Pelle Larsson      MIA
-Michael Porter Jr.      BKN
-        Tari Eason      HOU
-      Kevon Harris      HOU
-       Kobe Bufkin      BKN
-       Zach LaVine      SAC
-  Domantas Sabonis      SAC
-   Daeqwon Plowden      SAC
-    Isaiah Stevens      SAC
+               player team_key
+         Jusuf Nurkic      UTA
+        Georges Niang      UTA
+     Dennis Smith Jr.      DAL
+Sviatoslav Mykhailiuk      UTA
+      P.J. Washington      DAL
+        Dalano Banton      DAL
+           Ace Bailey      UTA
+    Spencer Dinwiddie      CHA
+         Delon Wright      IND
+       Grant Williams      CHA
+       Isaiah Jackson      IND
+   Bennedict Mathurin      IND
+      Andrew Nembhard      IND
+     Ryan Kalkbrenner      CHA
+           Kevin Knox      CHI
+          Jalen Smith      CHI
+          Josh Giddey      CHI
+        Yuki Kawamura      CHI
+         Noa Essengue      CHI
+       Darius Garland      CLE
+            Dean Wade      CLE
+            Max Strus      CLE
+      Anthony Edwards      MIN
+        Jesse Edwards      MIN
 
 === rebounds.csv ===
 Loaded team tables: 8 / 8
 Added columns: 30
-Missing matches (rows with ALL rebounds_* NaN): 17 / 131
+Missing matches (rows with ALL rebounds_* NaN): 24 / 140
 Sample missing (first 40):
-            player team_key
-       Kelly Oubre      PHI
-  Dennis Smith Jr.      DAL
-     Dalano Banton      DAL
-     Tobias Harris      DET
-      Caris LeVert      DET
-       Tyler Herro      MIA
-       Colby Jones      DET
-    Ron Holland II      DET
-     Pelle Larsson      MIA
-Michael Porter Jr.      BKN
-        Tari Eason      HOU
-      Kevon Harris      HOU
-       Kobe Bufkin      BKN
-       Zach LaVine      SAC
-  Domantas Sabonis      SAC
-   Daeqwon Plowden      SAC
-    Isaiah Stevens      SAC
+               player team_key
+         Jusuf Nurkic      UTA
+        Georges Niang      UTA
+     Dennis Smith Jr.      DAL
+Sviatoslav Mykhailiuk      UTA
+      P.J. Washington      DAL
+        Dalano Banton      DAL
+           Ace Bailey      UTA
+    Spencer Dinwiddie      CHA
+         Delon Wright      IND
+       Grant Williams      CHA
+       Isaiah Jackson      IND
+   Bennedict Mathurin      IND
+      Andrew Nembhard      IND
+     Ryan Kalkbrenner      CHA
+           Kevin Knox      CHI
+          Jalen Smith      CHI
+          Josh Giddey      CHI
+        Yuki Kawamura      CHI
+         Noa Essengue      CHI
+       Darius Garland      CLE
+            Dean Wade      CLE
+            Max Strus      CLE
+      Anthony Edwards      MIN
+        Jesse Edwards      MIN
 
 === turnovers.csv ===
 Loaded team tables: 8 / 8
 Added columns: 13
-Missing matches (rows with ALL turnovers_* NaN): 17 / 131
+Missing matches (rows with ALL turnovers_* NaN): 24 / 140
 Sample missing (first 40):
-            player team_key
-       Kelly Oubre      PHI
-  Dennis Smith Jr.      DAL
-     Dalano Banton      DAL
-     Tobias Harris      DET
-      Caris LeVert      DET
-       Tyler Herro      MIA
-       Colby Jones      DET
-    Ron Holland II      DET
-     Pelle Larsson      MIA
-Michael Porter Jr.      BKN
-        Tari Eason      HOU
-      Kevon Harris      HOU
-       Kobe Bufkin      BKN
-       Zach LaVine      SAC
-  Domantas Sabonis      SAC
-   Daeqwon Plowden      SAC
-    Isaiah Stevens      SAC
+               player team_key
+         Jusuf Nurkic      UTA
+        Georges Niang      UTA
+     Dennis Smith Jr.      DAL
+Sviatoslav Mykhailiuk      UTA
+      P.J. Washington      DAL
+        Dalano Banton      DAL
+           Ace Bailey      UTA
+    Spencer Dinwiddie      CHA
+         Delon Wright      IND
+       Grant Williams      CHA
+       Isaiah Jackson      IND
+   Bennedict Mathurin      IND
+      Andrew Nembhard      IND
+     Ryan Kalkbrenner      CHA
+           Kevin Knox      CHI
+          Jalen Smith      CHI
+          Josh Giddey      CHI
+        Yuki Kawamura      CHI
+         Noa Essengue      CHI
+       Darius Garland      CLE
+            Dean Wade      CLE
+            Max Strus      CLE
+      Anthony Edwards      MIN
+        Jesse Edwards      MIN
 
 === stocks.csv ===
 Loaded team tables: 8 / 8
 Added columns: 15
-Missing matches (rows with ALL stocks_* NaN): 17 / 131
+Missing matches (rows with ALL stocks_* NaN): 24 / 140
 Sample missing (first 40):
-            player team_key
-       Kelly Oubre      PHI
-  Dennis Smith Jr.      DAL
-     Dalano Banton      DAL
-     Tobias Harris      DET
-      Caris LeVert      DET
-       Tyler Herro      MIA
-       Colby Jones      DET
-    Ron Holland II      DET
-     Pelle Larsson      MIA
-Michael Porter Jr.      BKN
-        Tari Eason      HOU
-      Kevon Harris      HOU
-       Kobe Bufkin      BKN
-       Zach LaVine      SAC
-  Domantas Sabonis      SAC
-   Daeqwon Plowden      SAC
-    Isaiah Stevens      SAC
+               player team_key
+         Jusuf Nurkic      UTA
+        Georges Niang      UTA
+     Dennis Smith Jr.      DAL
+Sviatoslav Mykhailiuk      UTA
+      P.J. Washington      DAL
+        Dalano Banton      DAL
+           Ace Bailey      UTA
+    Spencer Dinwiddie      CHA
+         Delon Wright      IND
+       Grant Williams      CHA
+       Isaiah Jackson      IND
+   Bennedict Mathurin      IND
+      Andrew Nembhard      IND
+     Ryan Kalkbrenner      CHA
+           Kevin Knox      CHI
+          Jalen Smith      CHI
+          Josh Giddey      CHI
+        Yuki Kawamura      CHI
+         Noa Essengue      CHI
+       Darius Garland      CLE
+            Dean Wade      CLE
+            Max Strus      CLE
+      Anthony Edwards      MIN
+        Jesse Edwards      MIN

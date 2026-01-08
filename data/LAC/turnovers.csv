@@ -1,18 +1,18 @@
 Name  Sort table by Name in descending order,Minutes  Sort table by Minutes in descending order,TOs  Sort table by TOs in descending order,Live Ball TOs  Sort table by Live Ball TOs in descending order,Dead Ball TOs  Sort table by Dead Ball TOs in descending order,Live Ball TO%  Sort table by Live Ball TO% in descending order,Lost Ball  Sort table by Lost Ball in descending order,Lost Ball Out of Bounds  Sort table by Lost Ball Out of Bounds in descending order,Bad Pass  Sort table by Bad Pass in descending order,Bad Pass Out of Bounds  Sort table by Bad Pass Out of Bounds in descending order,Travels  Sort table by Travels in descending order,3 Second Violation  Sort table by 3 Second Violation in descending order,Step Out of Bounds  Sort table by Step Out of Bounds in descending order,Offensive Goaltending  Sort table by Offensive Goaltending in descending order
-Chris Paul,97,4.59,4.08,0.51,88.89%,0.0,0.0,4.08,0.0,0.51,0.0,0.0,0.0
-Kris Dunn,252,2.47,1.86,0.62,75.00%,0.41,0.21,1.44,0.21,0.21,0.0,0.0,0.0
-Derrick Jones Jr.,55,0.93,0.93,0.0,100.00%,0.93,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-John Collins,259,4.13,1.77,2.36,42.86%,0.59,0.2,1.18,0.0,0.0,0.0,0.0,0.0
-Brook Lopez,377,2.59,1.09,1.5,42.11%,0.55,0.14,0.55,0.27,0.14,0.0,0.0,0.0
-Kawhi Leonard,243,3.17,2.11,1.06,66.67%,1.27,0.21,0.85,0.42,0.0,0.0,0.0,0.0
-Nicolas Batum,309,1.78,0.65,1.13,36.36%,0.16,0.16,0.49,0.32,0.16,0.0,0.0,0.0
-James Harden,353,4.6,3.45,1.15,75.00%,1.29,0.0,2.16,0.72,0.0,0.0,0.0,0.0
-Bradley Beal,15,3.57,3.57,0.0,100.00%,0.0,0.0,3.57,0.0,0.0,0.0,0.0,0.0
-Bogdan Bogdanović,153,1.72,1.37,0.34,80.00%,0.34,0.34,1.03,0.0,0.0,0.0,0.0,0.0
-Kobe Brown,111,3.2,3.2,0.0,100.00%,0.91,0.0,2.28,0.0,0.0,0.0,0.0,0.0
-Kobe Sanders,208,4.09,3.13,0.96,76.47%,1.2,0.0,1.92,0.0,0.72,0.0,0.0,0.0
-Cam Christie,95,1.11,0.0,1.11,0.00%,0.0,0.0,0.0,0.56,0.56,0.0,0.0,0.0
-Yanic Konan Niederhäuser,67,3.25,0.0,3.25,0.00%,0.0,0.0,0.0,0.81,0.0,0.0,0.0,0.0
-Jahmyl Telfort,20,2.78,0.0,2.78,0.00%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Jordan Miller,70,3.73,2.99,0.75,80.00%,1.49,0.0,1.49,0.0,0.0,0.0,0.75,0.0
-RayJ Dennis,3,16.67,16.67,0.0,100.00%,0.0,0.0,16.67,0.0,0.0,0.0,0.0,0.0
+Kris Dunn,815,2.42,1.43,0.99,58.97%,0.43,0.19,0.99,0.25,0.12,0.0,0.0,0.0
+Ivica Zubac,803,3.01,1.41,1.6,46.94%,0.68,0.31,0.74,0.31,0.12,0.0,0.0,0.0
+Derrick Jones Jr.,362,1.77,0.95,0.82,53.85%,0.27,0.0,0.68,0.27,0.0,0.0,0.0,0.0
+John Collins,752,2.33,1.26,1.06,54.29%,0.86,0.13,0.4,0.0,0.07,0.0,0.0,0.0
+James Harden,1026,4.95,4.03,0.92,81.37%,1.12,0.0,2.91,0.49,0.05,0.0,0.05,0.0
+Bradley Beal,99,4.5,4.0,0.5,88.89%,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+Bogdan Bogdanović,280,2.77,2.03,0.74,73.33%,0.74,0.37,1.29,0.0,0.0,0.0,0.18,0.0
+Cam Christie,94,0.0,0.0,0.0,0.00%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nicolas Batum,582,1.37,0.69,0.69,50.00%,0.09,0.09,0.6,0.09,0.17,0.0,0.0,0.0
+Kawhi Leonard,683,3.08,1.76,1.32,57.14%,1.1,0.22,0.66,0.51,0.15,0.0,0.0,0.0
+Kobe Brown,135,3.05,3.05,0.0,100.00%,0.76,0.0,2.29,0.0,0.0,0.0,0.0,0.0
+Jordan Miller,135,3.83,3.07,0.77,80.00%,1.53,0.0,1.53,0.0,0.0,0.0,0.38,0.0
+Kobe Sanders,421,3.85,2.33,1.52,60.61%,0.7,0.23,1.63,0.23,0.35,0.0,0.12,0.0
+Brook Lopez,343,2.58,1.06,1.52,41.18%,0.61,0.15,0.46,0.3,0.15,0.0,0.0,0.0
+Yanic Konan Niederhäuser,83,3.05,0.61,2.44,20.00%,0.0,0.0,0.61,0.61,0.0,0.0,0.0,0.0
+RayJ Dennis,3,14.29,14.29,0.0,100.00%,0.0,0.0,14.29,0.0,0.0,0.0,0.0,0.0
+Jahmyl Telfort,17,3.23,0.0,3.23,0.00%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

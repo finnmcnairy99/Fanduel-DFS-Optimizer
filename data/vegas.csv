@@ -1,6 +1,10 @@
 game_id,home,away,commence_time_utc,book,total,spread_home
-Houston Rockets@Brooklyn Nets,Brooklyn Nets,Houston Rockets,2026-01-01T23:10:00Z,DraftKings,218.5,11.5
-Miami Heat@Detroit Pistons,Detroit Pistons,Miami Heat,2026-01-02T00:10:00Z,DraftKings,236.5,-4.5
-Philadelphia 76ers@Dallas Mavericks,Dallas Mavericks,Philadelphia 76ers,2026-01-02T01:40:00Z,DraftKings,230.5,2.5
-Boston Celtics@Sacramento Kings,Sacramento Kings,Boston Celtics,2026-01-02T03:10:00Z,DraftKings,229.5,9.5
-Utah Jazz@Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,2026-01-02T03:40:00Z,DraftKings,232.5,-12.5
+Indiana Pacers@Charlotte Hornets,Charlotte Hornets,Indiana Pacers,2026-01-09T00:10:00Z,DraftKings,232.5,-4.5
+Miami Heat@Chicago Bulls,Chicago Bulls,Miami Heat,2026-01-09T01:10:00Z,DraftKings,237.5,7.5
+Cleveland Cavaliers@Minnesota Timberwolves,Minnesota Timberwolves,Cleveland Cavaliers,2026-01-09T01:10:00Z,DraftKings,236.5,-2.5
+Dallas Mavericks@Utah Jazz,Utah Jazz,Dallas Mavericks,2026-01-09T02:10:00Z,DraftKings,241.5,4.5
+Toronto Raptors@Boston Celtics,Boston Celtics,Toronto Raptors,2026-01-10T00:10:00Z,DraftKings,223.5,-7.5
+Philadelphia 76ers@Orlando Magic,Orlando Magic,Philadelphia 76ers,2026-01-10T00:10:00Z,FanDuel,227.5,2.0
+New York Knicks@Phoenix Suns,Phoenix Suns,New York Knicks,2026-01-10T02:10:00Z,DraftKings,231.5,2.5
+Sacramento Kings@Golden State Warriors,Golden State Warriors,Sacramento Kings,2026-01-10T03:10:00Z,FanDuel,229.5,-13.5
+Houston Rockets@Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,2026-01-10T03:10:00Z,FanDuel,219.5,6.5

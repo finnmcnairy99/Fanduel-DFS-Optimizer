@@ -5,9 +5,9 @@ Entries You,150
 Unique Lineups Returned,150
 Salary Cap,60000
 Min Salary,59000
-Avg Salary (portfolio),59582.7
+Avg Salary (portfolio),59573.3
 Min Salary (portfolio),59000
-Candidate Unique Lineups,2199
+Candidate Unique Lineups,1732
 Num Sims,2200
 Field Pool Size,1200
 Max players per team,4
@@ -18,6 +18,6 @@ Game-stack weight,1.0
 Heavy-tail prob,0.08
 Heavy-tail scale,1.35
 ROI sims,80
-ROI mean,1.1162
-ROI p50,-0.15
-ROI p90,0.1439
+ROI mean,1.694
+ROI p50,-0.176
+ROI p90,16.3279
